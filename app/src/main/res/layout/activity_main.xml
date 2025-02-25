@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <!-- App Title -->
+    <TextView
+        android:id="@+id/appTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Toll Zone Detector"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:paddingBottom="10dp"/>
+
+    <!-- Current Coordinates Display -->
+    <TextView
+        android:id="@+id/coordinatesText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lat: --, Lon: --"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_blue_dark"
+        android:paddingBottom="10dp"/>
+
+    <!-- Toll Zone Status Display -->
+    <TextView
+        android:id="@+id/tollStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Toll Zone Nearby"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_red_dark"
+        android:paddingBottom="20dp"/>
+
+    <!-- GPX File Selector Button -->
+    <Button
+        android:id="@+id/demoButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Load GPX File"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:backgroundTint="@android:color/holo_blue_light"/>
+
+    <!-- Trip Summary Button -->
+<!--    <Button-->
+<!--        android:id="@+id/summaryButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Show Summary"-->
+<!--        android:textSize="16sp"-->
+<!--        android:enabled="false"/>-->
+
+    <Button
+        android:id="@+id/tripSummaryButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Trip Summary"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:enabled="false"/>
+
+</LinearLayout>
+
+
+
+<!--    <?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout-->
+<!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent"-->
+<!--android:orientation="vertical"-->
+<!--android:gravity="center"-->
+<!--android:padding="20dp">-->
+
+<!--&lt;!&ndash; App Title &ndash;&gt;-->
+<!--<TextView-->
+<!--    android:id="@+id/appTitle"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:text="Toll Zone Detector"-->
+<!--    android:textSize="22sp"-->
+<!--    android:textStyle="bold"-->
+<!--    android:textColor="@android:color/black"-->
+<!--    android:paddingBottom="10dp"/>-->
+
+<!--&lt;!&ndash; Current Coordinates Display &ndash;&gt;-->
+<!--<TextView-->
+<!--    android:id="@+id/coordinatesText"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:text="Lat: &#45;&#45;, Lon: &#45;&#45;"-->
+<!--    android:textSize="18sp"-->
+<!--    android:textStyle="bold"-->
+<!--    android:textColor="@android:color/holo_blue_dark"-->
+<!--    android:paddingBottom="10dp"/>-->
+
+<!--&lt;!&ndash; Toll Zone Status Display &ndash;&gt;-->
+<!--<TextView-->
+<!--    android:id="@+id/tollStatus"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:text="No Toll Zone Nearby"-->
+<!--    android:textSize="18sp"-->
+<!--    android:textStyle="bold"-->
+<!--    android:textColor="@android:color/holo_red_dark"-->
+<!--    android:paddingBottom="20dp"/>-->
+
+<!--&lt;!&ndash; GPX File Selector Button &ndash;&gt;-->
+<!--<Button-->
+<!--    android:id="@+id/demoButton"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:text="Load GPX File"-->
+<!--    android:textSize="16sp"-->
+<!--    android:padding="10dp"-->
+<!--    android:backgroundTint="@android:color/holo_blue_light"/>-->
+
+<!--&lt;!&ndash; Show Trip Summary Button (Initially Disabled) &ndash;&gt;-->
+<!--<Button-->
+<!--    android:id="@+id/summaryButton"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:text="Show Trip Summary"-->
+<!--    android:textSize="16sp"-->
+<!--    android:padding="10dp"-->
+<!--    android:backgroundTint="@android:color/holo_green_light"-->
+<!--    android:enabled="false"-->
+<!--    android:visibility="visible"-->
+<!--    android:layout_marginTop="15dp"/>-->
+
+<!--</LinearLayout>-->
+
+
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical"-->
+<!--    android:padding="16dp">-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/toll_distance"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Total Toll Distance: 0 meters"-->
+<!--        android:textSize="18sp"-->
+<!--        android:textStyle="bold"/>-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/toll_fee"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Total Toll Fee: ₹0.00"-->
+<!--        android:textSize="18sp"-->
+<!--        android:textStyle="bold"/>-->
+
+<!--    <Button-->
+<!--        android:id="@+id/load_data_btn"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Load Toll Data"-->
+<!--        android:padding="10dp"-->
+<!--        android:layout_marginTop="20dp"/>-->
+<!--</LinearLayout>-->

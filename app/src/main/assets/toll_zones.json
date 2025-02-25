@@ -1,0 +1,5182 @@
+[
+    {
+        "Toll Plaza Name":"Aganampudi",
+        "Latitude":17.6864348,
+        "Longitude":83.1377658
+    },
+    {
+        "Toll Plaza Name":"Amakathadu",
+        "Latitude":15.4966125,
+        "Longitude":77.877554
+    },
+    {
+        "Toll Plaza Name":"Annampalli",
+        "Latitude":16.6760635,
+        "Longitude":82.1428041
+    },
+    {
+        "Toll Plaza Name":"Badava",
+        "Latitude":16.4372451,
+        "Longitude":81.7513551
+    },
+    {
+        "Toll Plaza Name":"Bandaplli",
+        "Latitude":13.0660978,
+        "Longitude":79.0825114
+    },
+    {
+        "Toll Plaza Name":"Bandlapalli",
+        "Latitude":14.6160228,
+        "Longitude":77.7734749
+    },
+    {
+        "Toll Plaza Name":"Basapuram",
+        "Latitude":15.9349176,
+        "Longitude":77.3065663
+    },
+    {
+        "Toll Plaza Name":"Bathalapalli",
+        "Latitude":14.5148606,
+        "Longitude":77.7675538
+    },
+    {
+        "Toll Plaza Name":"Bellupada",
+        "Latitude":19.0276818,
+        "Longitude":84.5654381
+    },
+    {
+        "Toll Plaza Name":"Bollapalli",
+        "Latitude":16.1878832,
+        "Longitude":79.6872439
+    },
+    {
+        "Toll Plaza Name":"Brahmanapalli",
+        "Latitude":16.5168351,
+        "Longitude":79.8306076
+    },
+    {
+        "Toll Plaza Name":"Buchireddypalem",
+        "Latitude":14.5351281,
+        "Longitude":79.8772834
+    },
+    {
+        "Toll Plaza Name":"Budhanam",
+        "Latitude":14.0720731,
+        "Longitude":79.8893294
+    },
+    {
+        "Toll Plaza Name":"Chagalmarri",
+        "Latitude":14.9625969,
+        "Longitude":78.5916452
+    },
+    {
+        "Toll Plaza Name":"Chapirevula",
+        "Latitude":15.4548021,
+        "Longitude":78.4346936
+    },
+    {
+        "Toll Plaza Name":"Chilakapalem",
+        "Latitude":18.2709159,
+        "Longitude":83.8036656
+    },
+    {
+        "Toll Plaza Name":"Chillakallu",
+        "Latitude":16.8935957,
+        "Longitude":80.1386714
+    },
+    {
+        "Toll Plaza Name":"Chinaganjam Toll Plaza",
+        "Latitude":15.6929955,
+        "Longitude":80.2418578
+    },
+    {
+        "Toll Plaza Name":"Chintalapalem",
+        "Latitude":14.4583371,
+        "Longitude":79.3855749
+    },
+    {
+        "Toll Plaza Name":"Chitimiti Chintala",
+        "Latitude":22.4051443,
+        "Longitude":85.9381197
+    },
+    {
+        "Toll Plaza Name":"Cholasamudram",
+        "Latitude":14.7414526,
+        "Longitude":77.3518241
+    },
+    {
+        "Toll Plaza Name":"Danamaiahgari palli",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Davuluru",
+        "Latitude":16.4191814,
+        "Longitude":80.792095
+    },
+    {
+        "Toll Plaza Name":"DC PALLI",
+        "Latitude":14.6875773,
+        "Longitude":79.5034293
+    },
+    {
+        "Toll Plaza Name":"Dukkavanipalem",
+        "Latitude":17.8844469,
+        "Longitude":83.354895
+    },
+    {
+        "Toll Plaza Name":"Dumpalagattu Paatimeeda Palli",
+        "Latitude":14.6133556,
+        "Longitude":78.7646228
+    },
+    {
+        "Toll Plaza Name":"Durgamvaripalli",
+        "Latitude":13.7142622,
+        "Longitude":78.8731848
+    },
+    {
+        "Toll Plaza Name":"Eathakota",
+        "Latitude":16.764104,
+        "Longitude":82.1034593
+    },
+    {
+        "Toll Plaza Name":"Gadanki",
+        "Latitude":13.4593207,
+        "Longitude":79.1684333
+    },
+    {
+        "Toll Plaza Name":"Gantyada",
+        "Latitude":18.1426384,
+        "Longitude":83.2931113
+    },
+    {
+        "Toll Plaza Name":"Gollaprolu",
+        "Latitude":17.1532881,
+        "Longitude":82.2862828
+    },
+    {
+        "Toll Plaza Name":"Gorribanda",
+        "Latitude":18.5968049,
+        "Longitude":84.0551768
+    },
+    {
+        "Toll Plaza Name":"Goshtani",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Halaharvi",
+        "Latitude":15.8267656,
+        "Longitude":77.4465074
+    },
+    {
+        "Toll Plaza Name":"Jallipalli",
+        "Latitude":17.3741449,
+        "Longitude":79.9675356
+    },
+    {
+        "Toll Plaza Name":"Jodi Dharampuram",
+        "Latitude":14.96373,
+        "Longitude":77.9213526
+    },
+    {
+        "Toll Plaza Name":"Jonnada",
+        "Latitude":16.7968931,
+        "Longitude":81.8620477
+    },
+    {
+        "Toll Plaza Name":"Kalaparru",
+        "Latitude":16.6697377,
+        "Longitude":81.0120497
+    },
+    {
+        "Toll Plaza Name":"Kasepalli",
+        "Latitude":15.0497778,
+        "Longitude":77.6428737
+    },
+    {
+        "Toll Plaza Name":"Kaza",
+        "Latitude":32.2275991,
+        "Longitude":78.0709903
+    },
+    {
+        "Toll Plaza Name":"Keesara",
+        "Latitude":17.5280399,
+        "Longitude":78.6540576
+    },
+    {
+        "Toll Plaza Name":"Korlaphadu",
+        "Latitude":16.359825,
+        "Longitude":81.2449515
+    },
+    {
+        "Toll Plaza Name":"Krishnavaram",
+        "Latitude":17.204071,
+        "Longitude":82.1196764
+    },
+    {
+        "Toll Plaza Name":"Laxmipuram",
+        "Latitude":18.3796492,
+        "Longitude":84.084783
+    },
+    {
+        "Toll Plaza Name":"Madapam",
+        "Latitude":18.3761661,
+        "Longitude":83.9969103
+    },
+    {
+        "Toll Plaza Name":"Mahasamudram",
+        "Latitude":13.1805073,
+        "Longitude":79.0094081
+    },
+    {
+        "Toll Plaza Name":"Main Toll (Panchvati)",
+        "Latitude":20.0095493,
+        "Longitude":73.7918777
+    },
+    {
+        "Toll Plaza Name":"Marripalem",
+        "Latitude":17.740063,
+        "Longitude":83.251907
+    },
+    {
+        "Toll Plaza Name":"Marur",
+        "Latitude":30.9635748,
+        "Longitude":74.8638712
+    },
+    {
+        "Toll Plaza Name":"Medapi",
+        "Latitude":16.0360131,
+        "Longitude":79.4971033
+    },
+    {
+        "Toll Plaza Name":"Mekalavaripalli",
+        "Latitude":13.7511874,
+        "Longitude":78.9920953
+    },
+    {
+        "Toll Plaza Name":"Mopidevi Toll Plaza",
+        "Latitude":16.0634313,
+        "Longitude":80.9243584
+    },
+    {
+        "Toll Plaza Name":"Mudiveedu",
+        "Latitude":13.7075719,
+        "Longitude":78.5075126
+    },
+    {
+        "Toll Plaza Name":"Munjuluru",
+        "Latitude":16.3017392,
+        "Longitude":81.2160809
+    },
+    {
+        "Toll Plaza Name":"Nannur",
+        "Latitude":15.7184024,
+        "Longitude":78.0937171
+    },
+    {
+        "Toll Plaza Name":"Nathavalasa\/ Vizianagaram",
+        "Latitude":18.0640813,
+        "Longitude":83.5230123
+    },
+    {
+        "Toll Plaza Name":"Palempalli",
+        "Latitude":14.4916898,
+        "Longitude":78.8166373
+    },
+    {
+        "Toll Plaza Name":"Panchvati",
+        "Latitude":20.0095493,
+        "Longitude":73.7918777
+    },
+    {
+        "Toll Plaza Name":"Pandillapalli",
+        "Latitude":17.1464178,
+        "Longitude":80.1749516
+    },
+    {
+        "Toll Plaza Name":"Paninampalli Khalu",
+        "Latitude":17.0576745,
+        "Longitude":80.0325338
+    },
+    {
+        "Toll Plaza Name":"Panthangi",
+        "Latitude":17.2427645,
+        "Longitude":78.9563999
+    },
+    {
+        "Toll Plaza Name":"Patancheru (Prograssive Construction Toll) (MoRTH)",
+        "Latitude":17.5195868,
+        "Longitude":78.2778066
+    },
+    {
+        "Toll Plaza Name":"Pottipadu",
+        "Latitude":16.5770505,
+        "Longitude":80.8668369
+    },
+    {
+        "Toll Plaza Name":"Pullur",
+        "Latitude":10.3490148,
+        "Longitude":76.2421185
+    },
+    {
+        "Toll Plaza Name":"Raikal",
+        "Latitude":18.9105119,
+        "Longitude":78.8092085
+    },
+    {
+        "Toll Plaza Name":"Rapur",
+        "Latitude":14.1998609,
+        "Longitude":79.5343786
+    },
+    {
+        "Toll Plaza Name":"Raviguntapalli",
+        "Latitude":15.1984861,
+        "Longitude":79.4422593
+    },
+    {
+        "Toll Plaza Name":"Reddypalem Toll Plaza",
+        "Latitude":15.993588,
+        "Longitude":80.5988081
+    },
+    {
+        "Toll Plaza Name":"Rolla",
+        "Latitude":13.8429979,
+        "Longitude":77.1010416
+    },
+    {
+        "Toll Plaza Name":"Sarandi Toll Plaza",
+        "Latitude":19.4514669,
+        "Longitude":79.315005
+    },
+    {
+        "Toll Plaza Name":"Secondary Toll (Gosthani Gate \/Sheela Nagar)",
+        "Latitude":17.7138902,
+        "Longitude":83.2121582
+    },
+    {
+        "Toll Plaza Name":"Seetharampuram",
+        "Latitude":16.5120128,
+        "Longitude":80.6418056
+    },
+    {
+        "Toll Plaza Name":"Shakhapur",
+        "Latitude":16.518532,
+        "Longitude":76.840383
+    },
+    {
+        "Toll Plaza Name":"Singarenipalli Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Sullurpet",
+        "Latitude":13.7008756,
+        "Longitude":80.0209065
+    },
+    {
+        "Toll Plaza Name":"Sunambatti (Musunuru)",
+        "Latitude":14.8519141,
+        "Longitude":79.9877616
+    },
+    {
+        "Toll Plaza Name":"Tangatur",
+        "Latitude":15.3417343,
+        "Longitude":80.0346878
+    },
+    {
+        "Toll Plaza Name":"Thenepalli",
+        "Latitude":16.8455636,
+        "Longitude":79.1096103
+    },
+    {
+        "Toll Plaza Name":"Unguturu",
+        "Latitude":16.8218926,
+        "Longitude":81.4230383
+    },
+    {
+        "Toll Plaza Name":"Vaddupalli",
+        "Latitude":14.1768641,
+        "Longitude":79.3152194
+    },
+    {
+        "Toll Plaza Name":"Veeravalli",
+        "Latitude":16.611797,
+        "Longitude":80.9169384
+    },
+    {
+        "Toll Plaza Name":"Vempadu",
+        "Latitude":16.5323435,
+        "Longitude":81.4821335
+    },
+    {
+        "Toll Plaza Name":"Venkatachalam (Old Nellore)",
+        "Latitude":14.3258569,
+        "Longitude":79.9231886
+    },
+    {
+        "Toll Plaza Name":"Yerradoddi",
+        "Latitude":14.1672212,
+        "Longitude":78.1364889
+    },
+    {
+        "Toll Plaza Name":"Balachera",
+        "Latitude":24.9631122,
+        "Longitude":92.7596404
+    },
+    {
+        "Toll Plaza Name":"Daboka (Mikirati Hawgaon)",
+        "Latitude":26.1231708,
+        "Longitude":92.8600419
+    },
+    {
+        "Toll Plaza Name":"Dahalapara",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Galia",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Gangadhar Bridge (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kalia Bhomora Bridge (MoRTH)",
+        "Latitude":26.5986149,
+        "Longitude":92.8574653
+    },
+    {
+        "Toll Plaza Name":"Madanpur",
+        "Latitude":23.0089428,
+        "Longitude":88.4912395
+    },
+    {
+        "Toll Plaza Name":"Manderdisa",
+        "Latitude":25.655355,
+        "Longitude":93.136276
+    },
+    {
+        "Toll Plaza Name":"Mikirati Hawgaon",
+        "Latitude":26.1231708,
+        "Longitude":92.8600419
+    },
+    {
+        "Toll Plaza Name":"Nazirakhat",
+        "Latitude":26.1216997,
+        "Longitude":91.9233596
+    },
+    {
+        "Toll Plaza Name":"Patgaon",
+        "Latitude":16.1271274,
+        "Longitude":73.9462689
+    },
+    {
+        "Toll Plaza Name":"Raha(Saragaon)",
+        "Latitude":26.2468152,
+        "Longitude":92.522269
+    },
+    {
+        "Toll Plaza Name":"Telipara",
+        "Latitude":22.0762333,
+        "Longitude":82.1583504
+    },
+    {
+        "Toll Plaza Name":"Asanpur",
+        "Latitude":23.4230223,
+        "Longitude":88.1367641
+    },
+    {
+        "Toll Plaza Name":"Babhniyawan Toll Plaza",
+        "Latitude":25.4982341,
+        "Longitude":84.4881711
+    },
+    {
+        "Toll Plaza Name":"Balgudar",
+        "Latitude":25.1993114,
+        "Longitude":86.0758979
+    },
+    {
+        "Toll Plaza Name":"Barsoni",
+        "Latitude":25.7766523,
+        "Longitude":87.5553451
+    },
+    {
+        "Toll Plaza Name":"Bhadeswar Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Bhagalpur",
+        "Latitude":25.242453,
+        "Longitude":86.9842256
+    },
+    {
+        "Toll Plaza Name":"Bishunpurwa",
+        "Latitude":27.1099884,
+        "Longitude":84.4933758
+    },
+    {
+        "Toll Plaza Name":"Chainwa (Chapraitha)",
+        "Latitude":26.0334685,
+        "Longitude":84.4927201
+    },
+    {
+        "Toll Plaza Name":"Dalsagar Toll Plaza",
+        "Latitude":25.5806703,
+        "Longitude":84.0606505
+    },
+    {
+        "Toll Plaza Name":"Deederganj",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Govindpur (Murli)",
+        "Latitude":25.4878564,
+        "Longitude":81.8743365
+    },
+    {
+        "Toll Plaza Name":"Hariabara",
+        "Latitude":26.1526741,
+        "Longitude":87.445263
+    },
+    {
+        "Toll Plaza Name":"Jeerangachh",
+        "Latitude":26.341209,
+        "Longitude":88.0460894
+    },
+    {
+        "Toll Plaza Name":"Karigawan Toll Plaza",
+        "Latitude":24.6812246,
+        "Longitude":85.5058773
+    },
+    {
+        "Toll Plaza Name":"Khaikhat",
+        "Latitude":26.3189171,
+        "Longitude":87.9026527
+    },
+    {
+        "Toll Plaza Name":"Kharik",
+        "Latitude":25.3674628,
+        "Longitude":87.0021512
+    },
+    {
+        "Toll Plaza Name":"Kulhariya Toll Plaza",
+        "Latitude":25.5802339,
+        "Longitude":84.7686386
+    },
+    {
+        "Toll Plaza Name":"Mahanth Maniyari",
+        "Latitude":26.0229797,
+        "Longitude":85.4427153
+    },
+    {
+        "Toll Plaza Name":"Maithi",
+        "Latitude":26.1183037,
+        "Longitude":85.5689288
+    },
+    {
+        "Toll Plaza Name":"Malhipur Toll Plaza",
+        "Latitude":25.4064022,
+        "Longitude":86.0210857
+    },
+    {
+        "Toll Plaza Name":"Maranga",
+        "Latitude":25.7412342,
+        "Longitude":87.4635804
+    },
+    {
+        "Toll Plaza Name":"Mohania",
+        "Latitude":25.1676631,
+        "Longitude":83.6168787
+    },
+    {
+        "Toll Plaza Name":"Parsoni Khem",
+        "Latitude":26.4540236,
+        "Longitude":85.0259445
+    },
+    {
+        "Toll Plaza Name":"Pokhraira",
+        "Latitude":26.1198698,
+        "Longitude":85.3855144
+    },
+    {
+        "Toll Plaza Name":"Raje(Old Naraur)",
+        "Latitude":25.2430141,
+        "Longitude":82.5009931
+    },
+    {
+        "Toll Plaza Name":"Routara",
+        "Latitude":20.732484,
+        "Longitude":86.3820191
+    },
+    {
+        "Toll Plaza Name":"Runnisaidpur",
+        "Latitude":26.3726481,
+        "Longitude":85.4927026
+    },
+    {
+        "Toll Plaza Name":"Saidpur Patedha",
+        "Latitude":25.8010898,
+        "Longitude":85.283887
+    },
+    {
+        "Toll Plaza Name":"Sasaram",
+        "Latitude":24.9538803,
+        "Longitude":84.0142866
+    },
+    {
+        "Toll Plaza Name":"Saukala",
+        "Latitude":24.5995517,
+        "Longitude":84.7028361
+    },
+    {
+        "Toll Plaza Name":"Shahpur",
+        "Latitude":29.3501661,
+        "Longitude":77.5476117
+    },
+    {
+        "Toll Plaza Name":"Thawe (Brindavan)",
+        "Latitude":26.4358508,
+        "Longitude":84.3940259
+    },
+    {
+        "Toll Plaza Name":"Jia Bridge (MoRTH)",
+        "Latitude":26.8101953,
+        "Longitude":92.8768388
+    },
+    {
+        "Toll Plaza Name":"Badayiguda",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Bhojpuri",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Chhuhipali Toll Plaza",
+        "Latitude":21.2998227,
+        "Longitude":82.9428248
+    },
+    {
+        "Toll Plaza Name":"Chotiya",
+        "Latitude":22.7845931,
+        "Longitude":82.460718
+    },
+    {
+        "Toll Plaza Name":"Dhank",
+        "Latitude":21.7726231,
+        "Longitude":70.1366499
+    },
+    {
+        "Toll Plaza Name":"Durg Bypass (Dhamdanaka)",
+        "Latitude":21.2105051,
+        "Longitude":81.2571305
+    },
+    {
+        "Toll Plaza Name":"Jagtara",
+        "Latitude":20.623936,
+        "Longitude":81.4381533
+    },
+    {
+        "Toll Plaza Name":"Jhalmala Toll Plaza",
+        "Latitude":21.8175617,
+        "Longitude":83.4340918
+    },
+    {
+        "Toll Plaza Name":"Kharun (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kosa Nala (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kumhari",
+        "Latitude":21.2477322,
+        "Longitude":81.5161238
+    },
+    {
+        "Toll Plaza Name":"Limha Toll Plaza",
+        "Latitude":22.2794897,
+        "Longitude":82.3044871
+    },
+    {
+        "Toll Plaza Name":"Lodam Toll Plaza",
+        "Latitude":22.9542351,
+        "Longitude":84.3601402
+    },
+    {
+        "Toll Plaza Name":"Madanpur Toll Plaza",
+        "Latitude":26.3090568,
+        "Longitude":91.7162071
+    },
+    {
+        "Toll Plaza Name":"Maharajpur Toll Plaza",
+        "Latitude":23.2944324,
+        "Longitude":82.3839748
+    },
+    {
+        "Toll Plaza Name":"Mandir Hasaud",
+        "Latitude":21.2237351,
+        "Longitude":81.7654962
+    },
+    {
+        "Toll Plaza Name":"Maroud Toll Plaza",
+        "Latitude":20.8952648,
+        "Longitude":81.6868315
+    },
+    {
+        "Toll Plaza Name":"Mashora",
+        "Latitude":19.6214925,
+        "Longitude":81.6674687
+    },
+    {
+        "Toll Plaza Name":"Mudhiyapara Toll Plaza",
+        "Latitude":22.1559498,
+        "Longitude":81.2285911
+    },
+    {
+        "Toll Plaza Name":"Mudipar",
+        "Latitude":21.2566943,
+        "Longitude":82.4978012
+    },
+    {
+        "Toll Plaza Name":"Nandghat Bridge (MoRTH)",
+        "Latitude":21.9158188,
+        "Longitude":81.7444281
+    },
+    {
+        "Toll Plaza Name":"Pachira",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Paraghat",
+        "Latitude":22.0301279,
+        "Longitude":82.3154305
+    },
+    {
+        "Toll Plaza Name":"Sundar Nagar",
+        "Latitude":28.6016775,
+        "Longitude":77.2433795
+    },
+    {
+        "Toll Plaza Name":"Tarpongi",
+        "Latitude":21.4941523,
+        "Longitude":81.6904716
+    },
+    {
+        "Toll Plaza Name":"Thakurtola (End of Durg Bypass)",
+        "Latitude":21.6499603,
+        "Longitude":80.9788187
+    },
+    {
+        "Toll Plaza Name":"Badarpur Elevated",
+        "Latitude":28.5102495,
+        "Longitude":77.2985884
+    },
+    {
+        "Toll Plaza Name":"Bhagan",
+        "Latitude":24.3481276,
+        "Longitude":86.8377211
+    },
+    {
+        "Toll Plaza Name":"Chhajju Nagar(EPE)",
+        "Latitude":28.5921077,
+        "Longitude":77.5527704
+    },
+    {
+        "Toll Plaza Name":"Gadpuri",
+        "Latitude":28.2524518,
+        "Longitude":77.277837
+    },
+    {
+        "Toll Plaza Name":"Ghamroj (Sohna)",
+        "Latitude":28.3226188,
+        "Longitude":77.0578855
+    },
+    {
+        "Toll Plaza Name":"IGI Airport",
+        "Latitude":28.5561437,
+        "Longitude":77.0999623
+    },
+    {
+        "Toll Plaza Name":"Jita Kherli  Kiranj Toll Plaza",
+        "Latitude":28.1900246,
+        "Longitude":77.1887747
+    },
+    {
+        "Toll Plaza Name":"Karman",
+        "Latitude":30.8681555,
+        "Longitude":74.4713462
+    },
+    {
+        "Toll Plaza Name":"Kathuwas",
+        "Latitude":28.1371007,
+        "Longitude":76.3470861
+    },
+    {
+        "Toll Plaza Name":"Kherki Daula",
+        "Latitude":28.4021855,
+        "Longitude":76.9836323
+    },
+    {
+        "Toll Plaza Name":"Rasoolpur Sikrod",
+        "Latitude":28.6959658,
+        "Longitude":77.5081797
+    },
+    {
+        "Toll Plaza Name":"Sirohi Bahali",
+        "Latitude":27.9207192,
+        "Longitude":76.1305457
+    },
+    {
+        "Toll Plaza Name":"Ahmedabad",
+        "Latitude":23.022505,
+        "Longitude":72.5713621
+    },
+    {
+        "Toll Plaza Name":"Anand",
+        "Latitude":22.5645175,
+        "Longitude":72.928871
+    },
+    {
+        "Toll Plaza Name":"Anand Toll Plaza",
+        "Latitude":22.5975501,
+        "Longitude":72.9849471
+    },
+    {
+        "Toll Plaza Name":"Bagodara (MoRTH)",
+        "Latitude":22.638418,
+        "Longitude":72.2019339
+    },
+    {
+        "Toll Plaza Name":"Bamanbore (MoRTH)",
+        "Latitude":22.4155343,
+        "Longitude":71.0412338
+    },
+    {
+        "Toll Plaza Name":"Bhadbhid",
+        "Latitude":22.0095894,
+        "Longitude":72.0645932
+    },
+    {
+        "Toll Plaza Name":"Bhagwada",
+        "Latitude":20.4344489,
+        "Longitude":72.9134468
+    },
+    {
+        "Toll Plaza Name":"Bhalgam (Belgaum)",
+        "Latitude":15.8496953,
+        "Longitude":74.4976741
+    },
+    {
+        "Toll Plaza Name":"Bharthan Karjan",
+        "Latitude":22.0134605,
+        "Longitude":73.1320101
+    },
+    {
+        "Toll Plaza Name":"Bharudi",
+        "Latitude":22.0786543,
+        "Longitude":70.7673969
+    },
+    {
+        "Toll Plaza Name":"Bhatia",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Bhatwada (Godhra)",
+        "Latitude":21.2754892,
+        "Longitude":73.4857831
+    },
+    {
+        "Toll Plaza Name":"Bhiladi",
+        "Latitude":24.1954097,
+        "Longitude":72.0271421
+    },
+    {
+        "Toll Plaza Name":"Bhirandiyara Fee Plaza",
+        "Latitude":23.6712989,
+        "Longitude":69.7137997
+    },
+    {
+        "Toll Plaza Name":"Bhordu",
+        "Latitude":24.444167,
+        "Longitude":71.726659
+    },
+    {
+        "Toll Plaza Name":"Boriach",
+        "Latitude":20.8799172,
+        "Longitude":73.0501203
+    },
+    {
+        "Toll Plaza Name":"Choryasi",
+        "Latitude":21.308248,
+        "Longitude":72.9551347
+    },
+    {
+        "Toll Plaza Name":"Dari",
+        "Latitude":23.712424,
+        "Longitude":85.3807886
+    },
+    {
+        "Toll Plaza Name":"Dumiyani",
+        "Latitude":21.7510272,
+        "Longitude":70.3368131
+    },
+    {
+        "Toll Plaza Name":"Gadoi",
+        "Latitude":21.4257148,
+        "Longitude":70.2873367
+    },
+    {
+        "Toll Plaza Name":"Gorsar",
+        "Latitude":21.3330681,
+        "Longitude":69.9014927
+    },
+    {
+        "Toll Plaza Name":"Kathpur",
+        "Latitude":31.3068833,
+        "Longitude":76.8072196
+    },
+    {
+        "Toll Plaza Name":"Khemana",
+        "Latitude":24.237573,
+        "Longitude":72.455283
+    },
+    {
+        "Toll Plaza Name":"Kobadi",
+        "Latitude":21.6382525,
+        "Longitude":72.1453156
+    },
+    {
+        "Toll Plaza Name":"Kuchadi",
+        "Latitude":21.0617728,
+        "Longitude":79.2285499
+    },
+    {
+        "Toll Plaza Name":"Limdi",
+        "Latitude":23.0088266,
+        "Longitude":74.1558712
+    },
+    {
+        "Toll Plaza Name":"Makhel",
+        "Latitude":25.4294033,
+        "Longitude":94.1293717
+    },
+    {
+        "Toll Plaza Name":"Mandal (Vyara)",
+        "Latitude":21.1104293,
+        "Longitude":73.3861266
+    },
+    {
+        "Toll Plaza Name":"Mokha",
+        "Latitude":22.1615534,
+        "Longitude":77.9324565
+    },
+    {
+        "Toll Plaza Name":"Nadiad",
+        "Latitude":22.6915853,
+        "Longitude":72.8633635
+    },
+    {
+        "Toll Plaza Name":"Nadiad Toll Plaza",
+        "Latitude":22.6966315,
+        "Longitude":72.8968114
+    },
+    {
+        "Toll Plaza Name":"Nageshwari",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Narmada Bridge ( Mandva )",
+        "Latitude":21.9158166,
+        "Longitude":73.3030715
+    },
+    {
+        "Toll Plaza Name":"Okhamadhi",
+        "Latitude":22.1048324,
+        "Longitude":69.1149051
+    },
+    {
+        "Toll Plaza Name":"Panthwada",
+        "Latitude":24.4941021,
+        "Longitude":72.2985518
+    },
+    {
+        "Toll Plaza Name":"Pithadiya",
+        "Latitude":21.795399,
+        "Longitude":70.6536518
+    },
+    {
+        "Toll Plaza Name":"Pithai",
+        "Latitude":22.9057436,
+        "Longitude":72.9357215
+    },
+    {
+        "Toll Plaza Name":"Radhvanaj (Kheda)",
+        "Latitude":22.7091187,
+        "Longitude":72.7281884
+    },
+    {
+        "Toll Plaza Name":"Ring Raod",
+        "Latitude":23.3339193,
+        "Longitude":85.4036681
+    },
+    {
+        "Toll Plaza Name":"Ring Road (Ahmedabad)",
+        "Latitude":23.0304569,
+        "Longitude":72.5327316
+    },
+    {
+        "Toll Plaza Name":"Rohisa",
+        "Latitude":26.4759749,
+        "Longitude":74.1892012
+    },
+    {
+        "Toll Plaza Name":"Samakhiyali",
+        "Latitude":23.3050442,
+        "Longitude":70.5055713
+    },
+    {
+        "Toll Plaza Name":"Sundarpara Toll Plaza",
+        "Latitude":20.9017622,
+        "Longitude":70.5152183
+    },
+    {
+        "Toll Plaza Name":"Surajbari",
+        "Latitude":23.199128,
+        "Longitude":70.7175203
+    },
+    {
+        "Toll Plaza Name":"Taran Toll Plaza",
+        "Latitude":22.7414528,
+        "Longitude":70.4885689
+    },
+    {
+        "Toll Plaza Name":"Undavariya\/ Sirohi",
+        "Latitude":24.8827147,
+        "Longitude":72.8608948
+    },
+    {
+        "Toll Plaza Name":"Vadodara",
+        "Latitude":22.3071588,
+        "Longitude":73.1812187
+    },
+    {
+        "Toll Plaza Name":"Vadodra",
+        "Latitude":22.3071588,
+        "Longitude":73.1812187
+    },
+    {
+        "Toll Plaza Name":"Vaghasia",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Vanana",
+        "Latitude":22.0190006,
+        "Longitude":70.03245
+    },
+    {
+        "Toll Plaza Name":"Vantada",
+        "Latitude":23.6064648,
+        "Longitude":73.2536836
+    },
+    {
+        "Toll Plaza Name":"Varahi",
+        "Latitude":23.7920431,
+        "Longitude":71.4426268
+    },
+    {
+        "Toll Plaza Name":"Vasad",
+        "Latitude":22.4525996,
+        "Longitude":73.0650234
+    },
+    {
+        "Toll Plaza Name":"Vavadikhurd",
+        "Latitude":22.7896487,
+        "Longitude":73.5329091
+    },
+    {
+        "Toll Plaza Name":"Velva Toll Plaza",
+        "Latitude":20.8065298,
+        "Longitude":70.8145914
+    },
+    {
+        "Toll Plaza Name":"Abubshahar",
+        "Latitude":29.8599109,
+        "Longitude":74.6151551
+    },
+    {
+        "Toll Plaza Name":"Alikan",
+        "Latitude":29.6814728,
+        "Longitude":75.1209704
+    },
+    {
+        "Toll Plaza Name":"Amrawali Khera",
+        "Latitude":29.3622305,
+        "Longitude":76.4693225
+    },
+    {
+        "Toll Plaza Name":"Badopatti",
+        "Latitude":29.2745691,
+        "Longitude":75.8127199
+    },
+    {
+        "Toll Plaza Name":"Bahri",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Bainsi",
+        "Latitude":29.0341485,
+        "Longitude":76.4143406
+    },
+    {
+        "Toll Plaza Name":"Bamla",
+        "Latitude":28.8066338,
+        "Longitude":76.2452836
+    },
+    {
+        "Toll Plaza Name":"Bass",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Bhago Majra",
+        "Latitude":30.7572516,
+        "Longitude":76.6109441
+    },
+    {
+        "Toll Plaza Name":"Bhalki",
+        "Latitude":18.0503666,
+        "Longitude":77.2183652
+    },
+    {
+        "Toll Plaza Name":"Bhavdeen",
+        "Latitude":29.5464204,
+        "Longitude":75.2158171
+    },
+    {
+        "Toll Plaza Name":"Bisalwas",
+        "Latitude":28.4573789,
+        "Longitude":75.8846204
+    },
+    {
+        "Toll Plaza Name":"Buchawas",
+        "Latitude":28.6171759,
+        "Longitude":74.88409
+    },
+    {
+        "Toll Plaza Name":"Chandlana",
+        "Latitude":29.8633168,
+        "Longitude":76.6362293
+    },
+    {
+        "Toll Plaza Name":"Chaudhriwas",
+        "Latitude":29.0087462,
+        "Longitude":75.6048047
+    },
+    {
+        "Toll Plaza Name":"Chautala",
+        "Latitude":29.7807517,
+        "Longitude":74.5221285
+    },
+    {
+        "Toll Plaza Name":"Chhara",
+        "Latitude":28.6974457,
+        "Longitude":76.7134496
+    },
+    {
+        "Toll Plaza Name":"Dabwali",
+        "Latitude":29.948049,
+        "Longitude":74.7341349
+    },
+    {
+        "Toll Plaza Name":"Dadri",
+        "Latitude":28.5525772,
+        "Longitude":77.55481
+    },
+    {
+        "Toll Plaza Name":"Dahar",
+        "Latitude":29.3265024,
+        "Longitude":76.9340573
+    },
+    {
+        "Toll Plaza Name":"Dighal",
+        "Latitude":28.7694809,
+        "Longitude":76.632607
+    },
+    {
+        "Toll Plaza Name":"Gangaycha Jatt",
+        "Latitude":28.2722013,
+        "Longitude":76.6185265
+    },
+    {
+        "Toll Plaza Name":"Ghaggar",
+        "Latitude":29.4464487298,
+        "Longitude":74.5166661195
+    },
+    {
+        "Toll Plaza Name":"Gharaunda (Karnal)",
+        "Latitude":29.5397333,
+        "Longitude":76.9731017
+    },
+    {
+        "Toll Plaza Name":"Ghata Shamsabad Toll Plaza",
+        "Latitude":27.7593534,
+        "Longitude":77.0161436
+    },
+    {
+        "Toll Plaza Name":"Ghulal",
+        "Latitude":30.8437482,
+        "Longitude":76.1276465
+    },
+    {
+        "Toll Plaza Name":"Hilalpur Toll Plaza",
+        "Latitude":28.2128673,
+        "Longitude":77.1242045
+    },
+    {
+        "Toll Plaza Name":"Jaloli",
+        "Latitude":17.887781,
+        "Longitude":75.2420722
+    },
+    {
+        "Toll Plaza Name":"Jat Guwana",
+        "Latitude":28.1176041,
+        "Longitude":76.1834456
+    },
+    {
+        "Toll Plaza Name":"Jharothi",
+        "Latitude":28.9334521,
+        "Longitude":76.9376587
+    },
+    {
+        "Toll Plaza Name":"Jogewala",
+        "Latitude":30.8330387,
+        "Longitude":75.015843
+    },
+    {
+        "Toll Plaza Name":"Kalinger Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Khalilpur Toll Plaza",
+        "Latitude":28.1582097,
+        "Longitude":77.1539321
+    },
+    {
+        "Toll Plaza Name":"Kharkhra",
+        "Latitude":28.9367976,
+        "Longitude":76.3666226
+    },
+    {
+        "Toll Plaza Name":"Khatkar",
+        "Latitude":29.4030017,
+        "Longitude":76.2450153
+    },
+    {
+        "Toll Plaza Name":"Kherari",
+        "Latitude":28.7857136,
+        "Longitude":76.3695167
+    },
+    {
+        "Toll Plaza Name":"Kheri Sharaf Ali",
+        "Latitude":27.9462395,
+        "Longitude":80.7787163
+    },
+    {
+        "Toll Plaza Name":"Kilazafargarh",
+        "Latitude":29.0860267,
+        "Longitude":76.429554
+    },
+    {
+        "Toll Plaza Name":"Kitlana",
+        "Latitude":28.6792117,
+        "Longitude":76.1747511
+    },
+    {
+        "Toll Plaza Name":"Landhari",
+        "Latitude":29.3020809,
+        "Longitude":75.660084
+    },
+    {
+        "Toll Plaza Name":"Ludana",
+        "Latitude":29.2410185,
+        "Longitude":76.5098017
+    },
+    {
+        "Toll Plaza Name":"Madina Korsan",
+        "Latitude":28.9185062,
+        "Longitude":76.4389549
+    },
+    {
+        "Toll Plaza Name":"Makrauli Kalan",
+        "Latitude":28.9491511,
+        "Longitude":76.6427152
+    },
+    {
+        "Toll Plaza Name":"Mohna",
+        "Latitude":28.2226104,
+        "Longitude":77.4443807
+    },
+    {
+        "Toll Plaza Name":"Morwala",
+        "Latitude":28.639011,
+        "Longitude":76.4027937
+    },
+    {
+        "Toll Plaza Name":"Narwana",
+        "Latitude":29.5959853,
+        "Longitude":76.1149662
+    },
+    {
+        "Toll Plaza Name":"Pabnawa",
+        "Latitude":29.8895181,
+        "Longitude":76.6614853
+    },
+    {
+        "Toll Plaza Name":"Panipat Elevated",
+        "Latitude":29.3929529,
+        "Longitude":76.9688942
+    },
+    {
+        "Toll Plaza Name":"Peont",
+        "Latitude":29.631169,
+        "Longitude":76.7991142
+    },
+    {
+        "Toll Plaza Name":"Pinan Toll Plaza",
+        "Latitude":27.2352976,
+        "Longitude":76.7581574
+    },
+    {
+        "Toll Plaza Name":"Ramayana (Mayar)",
+        "Latitude":25.0796234,
+        "Longitude":84.4540213
+    },
+    {
+        "Toll Plaza Name":"Rohad",
+        "Latitude":28.7425172,
+        "Longitude":76.8072196
+    },
+    {
+        "Toll Plaza Name":"Saini Majra",
+        "Latitude":30.8033669,
+        "Longitude":76.7083984
+    },
+    {
+        "Toll Plaza Name":"Sheetal Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Shergarh",
+        "Latitude":26.3253194,
+        "Longitude":72.2926312
+    },
+    {
+        "Toll Plaza Name":"Thana",
+        "Latitude":19.2183307,
+        "Longitude":72.9780897
+    },
+    {
+        "Toll Plaza Name":"Baloh Fee Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Dolhu Nallah (Raison)",
+        "Latitude":32.0718595,
+        "Longitude":77.1302592
+    },
+    {
+        "Toll Plaza Name":"Moura Toll Plaza",
+        "Latitude":31.2116442,
+        "Longitude":76.6405593
+    },
+    {
+        "Toll Plaza Name":"Sanwara",
+        "Latitude":30.8931111,
+        "Longitude":77.0053459
+    },
+    {
+        "Toll Plaza Name":"Takoli Toll Plaza",
+        "Latitude":31.7980989,
+        "Longitude":77.1888709
+    },
+    {
+        "Toll Plaza Name":"Bann",
+        "Latitude":26.2384964,
+        "Longitude":81.0552184
+    },
+    {
+        "Toll Plaza Name":"Dondpur",
+        "Latitude":25.8516192,
+        "Longitude":81.8634132
+    },
+    {
+        "Toll Plaza Name":"Kaichachkoot",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Lamber",
+        "Latitude":30.7748952,
+        "Longitude":76.4837808
+    },
+    {
+        "Toll Plaza Name":"Mada",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Nashri",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Edalhatu",
+        "Latitude":23.1816778,
+        "Longitude":85.5657476
+    },
+    {
+        "Toll Plaza Name":"Ghanghri (Kulgo )",
+        "Latitude":24.0292526,
+        "Longitude":85.9342873
+    },
+    {
+        "Toll Plaza Name":"Hazaribag",
+        "Latitude":23.9924669,
+        "Longitude":85.3636758
+    },
+    {
+        "Toll Plaza Name":"Hesmi (Mandar)",
+        "Latitude":23.4674957,
+        "Longitude":85.0729949
+    },
+    {
+        "Toll Plaza Name":"Kauwakhoh (Hariharnath)Toll Plaza",
+        "Latitude":24.5058349,
+        "Longitude":84.2486539
+    },
+    {
+        "Toll Plaza Name":"Kokpara",
+        "Latitude":22.4513845,
+        "Longitude":86.589276
+    },
+    {
+        "Toll Plaza Name":"Kothiya",
+        "Latitude":27.2883757,
+        "Longitude":78.7221123
+    },
+    {
+        "Toll Plaza Name":"Nagwan Toll Plaza",
+        "Latitude":24.0471619,
+        "Longitude":85.387414
+    },
+    {
+        "Toll Plaza Name":"Navasari",
+        "Latitude":20.9467019,
+        "Longitude":72.9520348
+    },
+    {
+        "Toll Plaza Name":"Pata",
+        "Latitude":25.5969062,
+        "Longitude":91.8878118
+    },
+    {
+        "Toll Plaza Name":"Patrachauli Toll Plaza",
+        "Latitude":23.3214381,
+        "Longitude":85.150843
+    },
+    {
+        "Toll Plaza Name":"Pundag",
+        "Latitude":23.3456962,
+        "Longitude":85.2705972
+    },
+    {
+        "Toll Plaza Name":"Pupunki",
+        "Latitude":23.6975471,
+        "Longitude":86.2018717
+    },
+    {
+        "Toll Plaza Name":"Putru",
+        "Latitude":22.6837639,
+        "Longitude":86.3959473
+    },
+    {
+        "Toll Plaza Name":"Rasoiya Dhamna",
+        "Latitude":24.3151811,
+        "Longitude":85.3988579
+    },
+    {
+        "Toll Plaza Name":"Sosokhurd",
+        "Latitude":23.5493735,
+        "Longitude":85.7551288
+    },
+    {
+        "Toll Plaza Name":"Tand Balidih",
+        "Latitude":23.6665269,
+        "Longitude":86.0581267
+    },
+    {
+        "Toll Plaza Name":"Attibele (BETPL)",
+        "Latitude":12.778963,
+        "Longitude":77.7702029
+    },
+    {
+        "Toll Plaza Name":"Bagepalli",
+        "Latitude":13.784605,
+        "Longitude":77.7981834
+    },
+    {
+        "Toll Plaza Name":"Balenahalli",
+        "Latitude":14.267297,
+        "Longitude":76.5430429
+    },
+    {
+        "Toll Plaza Name":"Bankapur",
+        "Latitude":14.9200706,
+        "Longitude":75.2624898
+    },
+    {
+        "Toll Plaza Name":"Belekeri",
+        "Latitude":14.7068533,
+        "Longitude":74.2663499
+    },
+    {
+        "Toll Plaza Name":"Brahamarakotlu",
+        "Latitude":12.8764969,
+        "Longitude":75.0019668
+    },
+    {
+        "Toll Plaza Name":"Chalageri",
+        "Latitude":14.5667481,
+        "Longitude":75.7211578
+    },
+    {
+        "Toll Plaza Name":"Doddakarenahalli (Neelmangala )",
+        "Latitude":13.0686968,
+        "Longitude":77.3450155
+    },
+    {
+        "Toll Plaza Name":"Elevated Section\/ Electronic City",
+        "Latitude":12.8452145,
+        "Longitude":77.6601695
+    },
+    {
+        "Toll Plaza Name":"Gabbur (MoRTH)",
+        "Latitude":16.3087949,
+        "Longitude":77.1557063
+    },
+    {
+        "Toll Plaza Name":"Gabbur Toll Plaza",
+        "Latitude":15.3186632,
+        "Longitude":75.1399318
+    },
+    {
+        "Toll Plaza Name":"Gaddur  (Nangli)",
+        "Latitude":13.2083796,
+        "Longitude":78.5149691
+    },
+    {
+        "Toll Plaza Name":"Gananguru Plaza",
+        "Latitude":12.4704045,
+        "Longitude":76.7625073
+    },
+    {
+        "Toll Plaza Name":"Ganebail Toll Plaza",
+        "Latitude":15.6872213,
+        "Longitude":74.490661
+    },
+    {
+        "Toll Plaza Name":"Goa Road Interchange",
+        "Latitude":15.8939371,
+        "Longitude":73.824171
+    },
+    {
+        "Toll Plaza Name":"Guilalu",
+        "Latitude":14.049812,
+        "Longitude":76.5614665
+    },
+    {
+        "Toll Plaza Name":"Gundmi ( Sasthan )",
+        "Latitude":13.482031,
+        "Longitude":74.7073692
+    },
+    {
+        "Toll Plaza Name":"Halligudi",
+        "Latitude":15.4016194,
+        "Longitude":75.8333986
+    },
+    {
+        "Toll Plaza Name":"Harwal",
+        "Latitude":17.059433,
+        "Longitude":76.6864524
+    },
+    {
+        "Toll Plaza Name":"Hattargi",
+        "Latitude":16.1338722,
+        "Longitude":74.5184401
+    },
+    {
+        "Toll Plaza Name":"Hazamady",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Hebbalu",
+        "Latitude":14.3817958,
+        "Longitude":76.0928511
+    },
+    {
+        "Toll Plaza Name":"Hejamadi",
+        "Latitude":13.1085041,
+        "Longitude":74.7740939
+    },
+    {
+        "Toll Plaza Name":"Hirebagewadi",
+        "Latitude":15.7738846,
+        "Longitude":74.6444348
+    },
+    {
+        "Toll Plaza Name":"Hirehalli",
+        "Latitude":13.2718135,
+        "Longitude":77.180149
+    },
+    {
+        "Toll Plaza Name":"Hitnal",
+        "Latitude":15.3309542,
+        "Longitude":76.3128475
+    },
+    {
+        "Toll Plaza Name":"Holegadde",
+        "Latitude":14.3667376,
+        "Longitude":74.421785
+    },
+    {
+        "Toll Plaza Name":"Hoskote",
+        "Latitude":13.0692593,
+        "Longitude":77.7982428
+    },
+    {
+        "Toll Plaza Name":"Hulikunte",
+        "Latitude":14.1385556,
+        "Longitude":76.7185005
+    },
+    {
+        "Toll Plaza Name":"Jajirakallu Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"K N Hundy",
+        "Latitude":12.2130339,
+        "Longitude":76.6629785
+    },
+    {
+        "Toll Plaza Name":"Kalghatagi Road Interchange",
+        "Latitude":15.4414029,
+        "Longitude":75.0126958
+    },
+    {
+        "Toll Plaza Name":"Kamkole",
+        "Latitude":17.6480734,
+        "Longitude":77.8078759
+    },
+    {
+        "Toll Plaza Name":"Kaniminini (LHS)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kannanakatte",
+        "Latitude":14.554783,
+        "Longitude":76.4297675
+    },
+    {
+        "Toll Plaza Name":"Kannegala",
+        "Latitude":11.7803417,
+        "Longitude":76.6008334
+    },
+    {
+        "Toll Plaza Name":"Kannolli",
+        "Latitude":16.859048,
+        "Longitude":76.1488639
+    },
+    {
+        "Toll Plaza Name":"Karabylu (Bellur Cross)",
+        "Latitude":12.9618004,
+        "Longitude":76.7426701
+    },
+    {
+        "Toll Plaza Name":"Karajeevanahalli",
+        "Latitude":13.6118167,
+        "Longitude":76.9538278
+    },
+    {
+        "Toll Plaza Name":"Karwar Road Interchange",
+        "Latitude":15.3482011,
+        "Longitude":75.1333819
+    },
+    {
+        "Toll Plaza Name":"Kasaba (Bijapur)",
+        "Latitude":16.8301708,
+        "Longitude":75.710031
+    },
+    {
+        "Toll Plaza Name":"Kaythsandra\/Tumkur\/Chokkanahalli",
+        "Latitude":13.3141606,
+        "Longitude":77.1460219
+    },
+    {
+        "Toll Plaza Name":"Kirisave (Kadabhalli)",
+        "Latitude":12.963765,
+        "Longitude":76.6376612
+    },
+    {
+        "Toll Plaza Name":"Kognoli",
+        "Latitude":16.5423384,
+        "Longitude":74.3308864
+    },
+    {
+        "Toll Plaza Name":"Mangalgi",
+        "Latitude":17.7533053,
+        "Longitude":77.3008506
+    },
+    {
+        "Toll Plaza Name":"Mulbagal",
+        "Latitude":13.1666533,
+        "Longitude":78.3940737
+    },
+    {
+        "Toll Plaza Name":"Nagarhalla",
+        "Latitude":16.2904811,
+        "Longitude":75.9236036
+    },
+    {
+        "Toll Plaza Name":"Nalawadi",
+        "Latitude":15.3659311,
+        "Longitude":75.3415823
+    },
+    {
+        "Toll Plaza Name":"Nalluru Devanahalli",
+        "Latitude":13.1974013,
+        "Longitude":77.7638042
+    },
+    {
+        "Toll Plaza Name":"Narendra (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Narendra Toll Plaza",
+        "Latitude":15.4887404,
+        "Longitude":74.9698515
+    },
+    {
+        "Toll Plaza Name":"Neelamangala  - Tumkur \/Kulumepalya",
+        "Latitude":13.097301,
+        "Longitude":77.3856398
+    },
+    {
+        "Toll Plaza Name":"Rajatadripura Toll Plaza",
+        "Latitude":13.3287754,
+        "Longitude":76.6855045
+    },
+    {
+        "Toll Plaza Name":"Sadahalli",
+        "Latitude":13.2111655,
+        "Longitude":77.6460954
+    },
+    {
+        "Toll Plaza Name":"Shahapur",
+        "Latitude":19.4520777,
+        "Longitude":73.3279586
+    },
+    {
+        "Toll Plaza Name":"Shanthigrama",
+        "Latitude":12.9838797,
+        "Longitude":76.2181121
+    },
+    {
+        "Toll Plaza Name":"Sheshagirihalli Toll Plaza",
+        "Latitude":12.840454,
+        "Longitude":77.4184562
+    },
+    {
+        "Toll Plaza Name":"Shirur",
+        "Latitude":18.8249767,
+        "Longitude":74.3775524
+    },
+    {
+        "Toll Plaza Name":"Surathkal",
+        "Latitude":12.9951009,
+        "Longitude":74.8094458
+    },
+    {
+        "Toll Plaza Name":"Talapady",
+        "Latitude":12.7646754,
+        "Longitude":74.8890953
+    },
+    {
+        "Toll Plaza Name":"Tarihal Road Interchange",
+        "Latitude":15.3733119,
+        "Longitude":75.0762491
+    },
+    {
+        "Toll Plaza Name":"Thimmalapura",
+        "Latitude":15.032695,
+        "Longitude":76.3695167
+    },
+    {
+        "Toll Plaza Name":"Towards Bengaluru",
+        "Latitude":12.9715987,
+        "Longitude":77.5945627
+    },
+    {
+        "Toll Plaza Name":"Towards Neelmangla",
+        "Latitude":13.097301,
+        "Longitude":77.3856398
+    },
+    {
+        "Toll Plaza Name":"Vanagari",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Yeddore",
+        "Latitude":12.245793,
+        "Longitude":76.8843467
+    },
+    {
+        "Toll Plaza Name":"Akkulam (MoRTH)",
+        "Latitude":8.5334906,
+        "Longitude":76.9047438
+    },
+    {
+        "Toll Plaza Name":"Chullimada Hamlet (Pampampallam)",
+        "Latitude":10.8017652,
+        "Longitude":76.7836491
+    },
+    {
+        "Toll Plaza Name":"Kollam",
+        "Latitude":8.8932118,
+        "Longitude":76.6141396
+    },
+    {
+        "Toll Plaza Name":"Kumbalam",
+        "Latitude":9.9021698,
+        "Longitude":76.3103929
+    },
+    {
+        "Toll Plaza Name":"Kundannur (MoRTH)",
+        "Latitude":10.7082247,
+        "Longitude":76.2111507
+    },
+    {
+        "Toll Plaza Name":"Paliyekkara",
+        "Latitude":10.445455,
+        "Longitude":76.2582941
+    },
+    {
+        "Toll Plaza Name":"Panniyankara Toll Plaza",
+        "Latitude":10.5910395,
+        "Longitude":76.4585616
+    },
+    {
+        "Toll Plaza Name":"Ponnarimangalam",
+        "Latitude":10.0045239,
+        "Longitude":76.2616704
+    },
+    {
+        "Toll Plaza Name":"Thiruvallam",
+        "Latitude":12.9823036,
+        "Longitude":79.2592105
+    },
+    {
+        "Toll Plaza Name":"Thiruvangad Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Varapuzha Bridge (MoRTH)",
+        "Latitude":10.0728562,
+        "Longitude":76.2815233
+    },
+    {
+        "Toll Plaza Name":"Allonia",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Ashoka DSC Katni bypass (MoRTH)",
+        "Latitude":23.8343441,
+        "Longitude":80.3893814
+    },
+    {
+        "Toll Plaza Name":"Bagwada",
+        "Latitude":20.4344489,
+        "Longitude":72.9134468
+    },
+    {
+        "Toll Plaza Name":"Baharagaon",
+        "Latitude":22.3116064,
+        "Longitude":77.2376414
+    },
+    {
+        "Toll Plaza Name":"Bahoripar (Khursi)",
+        "Latitude":23.0455201,
+        "Longitude":79.9273153
+    },
+    {
+        "Toll Plaza Name":"Bakoli",
+        "Latitude":28.816042,
+        "Longitude":77.1419835
+    },
+    {
+        "Toll Plaza Name":"Barahi (MoRTH)",
+        "Latitude":28.7363632,
+        "Longitude":76.8952763
+    },
+    {
+        "Toll Plaza Name":"Baretha (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Bela",
+        "Latitude":21.1518018,
+        "Longitude":79.613713
+    },
+    {
+        "Toll Plaza Name":"Bhuteda  (Entry Exit )Toll Plaza",
+        "Latitude":23.6082814,
+        "Longitude":75.145782
+    },
+    {
+        "Toll Plaza Name":"Borkhedi (Nagpur ByPass)",
+        "Latitude":20.8560864,
+        "Longitude":78.9636019
+    },
+    {
+        "Toll Plaza Name":"Chapra (TP I)",
+        "Latitude":25.7811397,
+        "Longitude":84.7543413
+    },
+    {
+        "Toll Plaza Name":"Chhegaon Makhan (Mokalgaon)",
+        "Latitude":21.8317669,
+        "Longitude":76.2174935
+    },
+    {
+        "Toll Plaza Name":"Chikhalikala",
+        "Latitude":21.8371442,
+        "Longitude":78.4211826
+    },
+    {
+        "Toll Plaza Name":"Chitora",
+        "Latitude":26.3215219,
+        "Longitude":78.478036
+    },
+    {
+        "Toll Plaza Name":"Choundha",
+        "Latitude":26.5179677,
+        "Longitude":77.9690244
+    },
+    {
+        "Toll Plaza Name":"Dagrai",
+        "Latitude":24.358935,
+        "Longitude":77.5934621
+    },
+    {
+        "Toll Plaza Name":"Dalavada (Entry Exit ) Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Daroda",
+        "Latitude":20.4667476,
+        "Longitude":78.7709978
+    },
+    {
+        "Toll Plaza Name":"Dattigaon",
+        "Latitude":22.7096833,
+        "Longitude":74.8653331
+    },
+    {
+        "Toll Plaza Name":"Devgaon",
+        "Latitude":19.5603269,
+        "Longitude":73.1393861
+    },
+    {
+        "Toll Plaza Name":"Dhamnod  (Entry Exit ) Toll Plaza",
+        "Latitude":22.2138885,
+        "Longitude":75.4723411
+    },
+    {
+        "Toll Plaza Name":"Fulara",
+        "Latitude":22.0379262,
+        "Longitude":79.4277957
+    },
+    {
+        "Toll Plaza Name":"Gadha Toll Plaza",
+        "Latitude":21.921406,
+        "Longitude":77.7380418
+    },
+    {
+        "Toll Plaza Name":"Garoth (Entry Exit )Toll Plaza",
+        "Latitude":24.328077,
+        "Longitude":75.6499025
+    },
+    {
+        "Toll Plaza Name":"Goragaon Toll Plaza",
+        "Latitude":25.971769,
+        "Longitude":78.8367135
+    },
+    {
+        "Toll Plaza Name":"Guna Bypass",
+        "Latitude":24.6323648,
+        "Longitude":77.3001762
+    },
+    {
+        "Toll Plaza Name":"Gwalior Bypass (Mehra)",
+        "Latitude":26.2124007,
+        "Longitude":78.1772053
+    },
+    {
+        "Toll Plaza Name":"Harshili",
+        "Latitude":23.0096605,
+        "Longitude":78.1535928
+    },
+    {
+        "Toll Plaza Name":"IDTL  B",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"IDTL A",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Indore Dewas  (Indore Bypass)",
+        "Latitude":22.7280517,
+        "Longitude":75.9328839
+    },
+    {
+        "Toll Plaza Name":"Indore Dewas (Indore side)",
+        "Latitude":22.8210374,
+        "Longitude":75.9379484
+    },
+    {
+        "Toll Plaza Name":"Jaitpur",
+        "Latitude":28.5082271,
+        "Longitude":77.3307972
+    },
+    {
+        "Toll Plaza Name":"Jajau (Old Baretha)",
+        "Latitude":26.9431796,
+        "Longitude":77.9410251
+    },
+    {
+        "Toll Plaza Name":"Jogipura",
+        "Latitude":27.4068178,
+        "Longitude":76.0134089
+    },
+    {
+        "Toll Plaza Name":"Joharia shaikh",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Jungawani",
+        "Latitude":21.8522135,
+        "Longitude":79.1280402
+    },
+    {
+        "Toll Plaza Name":"Kachnaria",
+        "Latitude":23.7301654,
+        "Longitude":76.6921612
+    },
+    {
+        "Toll Plaza Name":"Kelwad",
+        "Latitude":21.4612335,
+        "Longitude":78.8771871
+    },
+    {
+        "Toll Plaza Name":"Khadda",
+        "Latitude":26.9256035,
+        "Longitude":83.9473019
+    },
+    {
+        "Toll Plaza Name":"Khalghat  (Indore - Khalghat)",
+        "Latitude":22.1568577,
+        "Longitude":75.4453973
+    },
+    {
+        "Toll Plaza Name":"Khalghat -MP\/Maharashtra Border(Sendhwa, Jamli)",
+        "Latitude":19.7514798,
+        "Longitude":75.7138884
+    },
+    {
+        "Toll Plaza Name":"Khambara",
+        "Latitude":21.693059,
+        "Longitude":78.41266
+    },
+    {
+        "Toll Plaza Name":"Khawasa FP",
+        "Latitude":21.7034654,
+        "Longitude":79.4422593
+    },
+    {
+        "Toll Plaza Name":"Kherwasani",
+        "Latitude":24.1301546,
+        "Longitude":80.6021614
+    },
+    {
+        "Toll Plaza Name":"Khiriya",
+        "Latitude":25.8918368,
+        "Longitude":83.4416776
+    },
+    {
+        "Toll Plaza Name":"Koshta (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kundi Fee Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Luharali",
+        "Latitude":31.6563701,
+        "Longitude":76.4971693
+    },
+    {
+        "Toll Plaza Name":"Madai",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Majhgawan",
+        "Latitude":24.9136699,
+        "Longitude":80.8073259
+    },
+    {
+        "Toll Plaza Name":"Malthone",
+        "Latitude":24.3045713,
+        "Longitude":78.5279263
+    },
+    {
+        "Toll Plaza Name":"Mandwara",
+        "Latitude":24.9558003,
+        "Longitude":72.7714774
+    },
+    {
+        "Toll Plaza Name":"Mangaon Toll Plaza",
+        "Latitude":21.9010125,
+        "Longitude":75.6044531
+    },
+    {
+        "Toll Plaza Name":"Mansar (Kamptee - Kanhan Bypass)\/ Tekadi",
+        "Latitude":21.229727,
+        "Longitude":79.2380664
+    },
+    {
+        "Toll Plaza Name":"Mauhari",
+        "Latitude":24.43833,
+        "Longitude":81.1223656
+    },
+    {
+        "Toll Plaza Name":"Methwada",
+        "Latitude":22.6553998,
+        "Longitude":75.5567821
+    },
+    {
+        "Toll Plaza Name":"Milanpur",
+        "Latitude":26.4652908,
+        "Longitude":91.4386366
+    },
+    {
+        "Toll Plaza Name":"Mohtara",
+        "Latitude":21.6569215,
+        "Longitude":82.4183927
+    },
+    {
+        "Toll Plaza Name":"Mudkheda",
+        "Latitude":25.6789935,
+        "Longitude":77.7165925
+    },
+    {
+        "Toll Plaza Name":"Mundiyar",
+        "Latitude":26.9882143,
+        "Longitude":73.6182979
+    },
+    {
+        "Toll Plaza Name":"Mungwari",
+        "Latitude":22.6249915,
+        "Longitude":77.6445785
+    },
+    {
+        "Toll Plaza Name":"Nayapura   (Entry Exit ) Toll Plaza",
+        "Latitude":25.2012074,
+        "Longitude":75.8566038
+    },
+    {
+        "Toll Plaza Name":"Neemthur (Entry Exit )Toll Plaza",
+        "Latitude":24.5421896,
+        "Longitude":75.7923778
+    },
+    {
+        "Toll Plaza Name":"Newli",
+        "Latitude":23.371477,
+        "Longitude":77.8281514
+    },
+    {
+        "Toll Plaza Name":"Nipaniya Toll Plaza",
+        "Latitude":23.2824257,
+        "Longitude":75.8214371
+    },
+    {
+        "Toll Plaza Name":"Odhaki Paipkhar",
+        "Latitude":24.4048889,
+        "Longitude":81.0789305
+    },
+    {
+        "Toll Plaza Name":"Pachwara",
+        "Latitude":25.3777456,
+        "Longitude":79.058856
+    },
+    {
+        "Toll Plaza Name":"Pagara",
+        "Latitude":24.6421398,
+        "Longitude":77.4529868
+    },
+    {
+        "Toll Plaza Name":"Pagariya (Semalkhedi )Toll Plaza",
+        "Latitude":23.88617,
+        "Longitude":76.1493891
+    },
+    {
+        "Toll Plaza Name":"Palhan Toll Plaza",
+        "Latitude":24.7707638,
+        "Longitude":81.4008738
+    },
+    {
+        "Toll Plaza Name":"Palkhanda Toll Plaza",
+        "Latitude":23.0411329,
+        "Longitude":75.9470498
+    },
+    {
+        "Toll Plaza Name":"Pandutala",
+        "Latitude":22.364493,
+        "Longitude":80.8156324
+    },
+    {
+        "Toll Plaza Name":"Panihaar",
+        "Latitude":26.0982148,
+        "Longitude":78.0281004
+    },
+    {
+        "Toll Plaza Name":"Para",
+        "Latitude":23.5094899,
+        "Longitude":86.5154448
+    },
+    {
+        "Toll Plaza Name":"Parvati Bridge (MoRTH)",
+        "Latitude":23.7102241,
+        "Longitude":77.1830955
+    },
+    {
+        "Toll Plaza Name":"Patansawangi",
+        "Latitude":21.3303408,
+        "Longitude":79.0207127
+    },
+    {
+        "Toll Plaza Name":"Patariya Goyal",
+        "Latitude":23.1319288,
+        "Longitude":76.690357
+    },
+    {
+        "Toll Plaza Name":"Patharahata",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Pathroundi",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Purankhedi",
+        "Latitude":25.1669207,
+        "Longitude":77.6221091
+    },
+    {
+        "Toll Plaza Name":"Raksha",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Ramnagar",
+        "Latitude":29.3947643,
+        "Longitude":79.1264997
+    },
+    {
+        "Toll Plaza Name":"Rati Rampura Toll Plaza",
+        "Latitude":26.6310223,
+        "Longitude":78.1438742
+    },
+    {
+        "Toll Plaza Name":"Rojwas(TP II)",
+        "Latitude":23.3155322,
+        "Longitude":76.1870681
+    },
+    {
+        "Toll Plaza Name":"Saliwada",
+        "Latitude":23.1087241,
+        "Longitude":80.0003875
+    },
+    {
+        "Toll Plaza Name":"Sarasdol",
+        "Latitude":22.6007153,
+        "Longitude":79.6003737
+    },
+    {
+        "Toll Plaza Name":"Sehatganj",
+        "Latitude":23.26081,
+        "Longitude":77.6321339
+    },
+    {
+        "Toll Plaza Name":"Sendurwafa",
+        "Latitude":21.0839655,
+        "Longitude":80.0150644
+    },
+    {
+        "Toll Plaza Name":"Shahdol (Dhuwar )",
+        "Latitude":23.2893218,
+        "Longitude":81.4320188
+    },
+    {
+        "Toll Plaza Name":"Shahpura",
+        "Latitude":27.3842893,
+        "Longitude":75.9611437
+    },
+    {
+        "Toll Plaza Name":"Sonkacch",
+        "Latitude":22.9729348,
+        "Longitude":76.3469014
+    },
+    {
+        "Toll Plaza Name":"Sonvarsaa",
+        "Latitude":26.7690929,
+        "Longitude":82.4170378
+    },
+    {
+        "Toll Plaza Name":"Sonvay (Indore - Khalghat)",
+        "Latitude":22.6235804,
+        "Longitude":75.7676728
+    },
+    {
+        "Toll Plaza Name":"Talen (Mirzapur)",
+        "Latitude":25.1336987,
+        "Longitude":82.5644344
+    },
+    {
+        "Toll Plaza Name":"Timarwani (Entry Exit ) Toll Plaza",
+        "Latitude":23.0929137,
+        "Longitude":74.5404694
+    },
+    {
+        "Toll Plaza Name":"Titarpani",
+        "Latitude":23.2393589,
+        "Longitude":79.050381
+    },
+    {
+        "Toll Plaza Name":"Ujara",
+        "Latitude":25.1229205,
+        "Longitude":79.7364823
+    },
+    {
+        "Toll Plaza Name":"Vishankheda",
+        "Latitude":23.1992025,
+        "Longitude":76.9326167
+    },
+    {
+        "Toll Plaza Name":"Anewadi",
+        "Latitude":17.8051386,
+        "Longitude":73.9624327
+    },
+    {
+        "Toll Plaza Name":"Ankadhal Toll Plaza",
+        "Latitude":17.3560475,
+        "Longitude":75.0786357
+    },
+    {
+        "Toll Plaza Name":"Arjunali",
+        "Latitude":19.362911,
+        "Longitude":73.1684081
+    },
+    {
+        "Toll Plaza Name":"Ashiv",
+        "Latitude":18.0918947,
+        "Longitude":76.3521514
+    },
+    {
+        "Toll Plaza Name":"Ashta Toll Plaza",
+        "Latitude":18.469501,
+        "Longitude":76.751685
+    },
+    {
+        "Toll Plaza Name":"Badewadi",
+        "Latitude":19.0131607,
+        "Longitude":76.196124
+    },
+    {
+        "Toll Plaza Name":"Baswant (Pimplegaon)",
+        "Latitude":20.1654012,
+        "Longitude":73.9879323
+    },
+    {
+        "Toll Plaza Name":"Bhamb",
+        "Latitude":19.752241,
+        "Longitude":77.8310104
+    },
+    {
+        "Toll Plaza Name":"Bhokarwadi Malewadi",
+        "Latitude":19.6106773,
+        "Longitude":75.626628
+    },
+    {
+        "Toll Plaza Name":"Borgaon",
+        "Latitude":18.4447416,
+        "Longitude":75.2654063
+    },
+    {
+        "Toll Plaza Name":"Chachadgaon",
+        "Latitude":20.2224829,
+        "Longitude":73.6731196
+    },
+    {
+        "Toll Plaza Name":"Chalakwadi",
+        "Latitude":19.1684468,
+        "Longitude":74.071503
+    },
+    {
+        "Toll Plaza Name":"Champa",
+        "Latitude":22.0300039,
+        "Longitude":82.6515036
+    },
+    {
+        "Toll Plaza Name":"Chandloi\/ Rajgurunagar (MoRTH)",
+        "Latitude":18.8556627,
+        "Longitude":73.887552
+    },
+    {
+        "Toll Plaza Name":"Chandwad",
+        "Latitude":21.2319281,
+        "Longitude":81.6220034
+    },
+    {
+        "Toll Plaza Name":"Charoti",
+        "Latitude":19.9195519,
+        "Longitude":72.9308968
+    },
+    {
+        "Toll Plaza Name":"Dasarkhed Toll Plaza",
+        "Latitude":20.9727189,
+        "Longitude":76.1796363
+    },
+    {
+        "Toll Plaza Name":"Dhoki",
+        "Latitude":18.3712458,
+        "Longitude":76.1044506
+    },
+    {
+        "Toll Plaza Name":"Dhumka Tondgaon",
+        "Latitude":20.0209252,
+        "Longitude":77.1657716
+    },
+    {
+        "Toll Plaza Name":"Dumberwadi",
+        "Latitude":19.2425761,
+        "Longitude":74.0079781
+    },
+    {
+        "Toll Plaza Name":"Fekri (MoRTH)",
+        "Latitude":21.0419781,
+        "Longitude":75.8366908
+    },
+    {
+        "Toll Plaza Name":"Ghoti",
+        "Latitude":19.714821,
+        "Longitude":73.6261059
+    },
+    {
+        "Toll Plaza Name":"Gondkhairi ( Kondhali )",
+        "Latitude":21.136345,
+        "Longitude":78.6382871
+    },
+    {
+        "Toll Plaza Name":"Haldgaon",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Hatnoor",
+        "Latitude":19.5050654,
+        "Longitude":76.5083562
+    },
+    {
+        "Toll Plaza Name":"Hirapur Toll Plaza",
+        "Latitude":20.0934269,
+        "Longitude":79.8380778
+    },
+    {
+        "Toll Plaza Name":"Hivargaon Pavsa",
+        "Latitude":19.5109738,
+        "Longitude":74.2149978
+    },
+    {
+        "Toll Plaza Name":"Husnapur",
+        "Latitude":20.5437937,
+        "Longitude":78.3074027
+    },
+    {
+        "Toll Plaza Name":"Ichgaon",
+        "Latitude":17.6030783,
+        "Longitude":75.6033497
+    },
+    {
+        "Toll Plaza Name":"Karanja (Ghadge)",
+        "Latitude":21.1627074,
+        "Longitude":78.4083949
+    },
+    {
+        "Toll Plaza Name":"Kardha (MoRTH)",
+        "Latitude":21.1422593,
+        "Longitude":79.6740663
+    },
+    {
+        "Toll Plaza Name":"Kardha Toll Plaza ( Bhnadara )",
+        "Latitude":21.1395057,
+        "Longitude":79.6755881
+    },
+    {
+        "Toll Plaza Name":"Karodi",
+        "Latitude":19.8907068,
+        "Longitude":75.2187346
+    },
+    {
+        "Toll Plaza Name":"Kasurdi (MoRTH)",
+        "Latitude":18.3410596,
+        "Longitude":73.8713099
+    },
+    {
+        "Toll Plaza Name":"Kawdipath (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kelapur",
+        "Latitude":19.9999499,
+        "Longitude":78.5334307
+    },
+    {
+        "Toll Plaza Name":"Khaniwade",
+        "Latitude":19.4986714,
+        "Longitude":72.9098819
+    },
+    {
+        "Toll Plaza Name":"Kharbi",
+        "Latitude":21.1348064,
+        "Longitude":79.1401289
+    },
+    {
+        "Toll Plaza Name":"Kharegaon (MoRTH)",
+        "Latitude":19.2050447,
+        "Longitude":72.9994986
+    },
+    {
+        "Toll Plaza Name":"Kharpada (MoRTH)",
+        "Latitude":18.831546,
+        "Longitude":73.0929132
+    },
+    {
+        "Toll Plaza Name":"Khedshivapur",
+        "Latitude":18.3440101,
+        "Longitude":73.8430091
+    },
+    {
+        "Toll Plaza Name":"Kini",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kurankhed",
+        "Latitude":20.6819265,
+        "Longitude":77.2462628
+    },
+    {
+        "Toll Plaza Name":"Laling (Dhule)",
+        "Latitude":20.81993,
+        "Longitude":74.7461427
+    },
+    {
+        "Toll Plaza Name":"Malegaon Toll Plaza",
+        "Latitude":18.829867,
+        "Longitude":77.013602
+    },
+    {
+        "Toll Plaza Name":"Maliwadi  Bhokarwadi Toll Plaza",
+        "Latitude":19.6106773,
+        "Longitude":75.626628
+    },
+    {
+        "Toll Plaza Name":"Mathani",
+        "Latitude":21.1427963,
+        "Longitude":79.3866788
+    },
+    {
+        "Toll Plaza Name":"Medshi Sawarkhda",
+        "Latitude":20.3272405,
+        "Longitude":76.9427006
+    },
+    {
+        "Toll Plaza Name":"Millampalli",
+        "Latitude":16.0825571,
+        "Longitude":79.2958491
+    },
+    {
+        "Toll Plaza Name":"Moshi (MoRTH)",
+        "Latitude":18.6793699,
+        "Longitude":73.8491808
+    },
+    {
+        "Toll Plaza Name":"Nandani Toll Plaza",
+        "Latitude":17.4732182,
+        "Longitude":75.8552061
+    },
+    {
+        "Toll Plaza Name":"Nandgaon Peth",
+        "Latitude":21.021655,
+        "Longitude":77.8238627
+    },
+    {
+        "Toll Plaza Name":"Nardana (MoRTH)",
+        "Latitude":21.1879926,
+        "Longitude":74.8258562
+    },
+    {
+        "Toll Plaza Name":"Nashik Sinnar Tollways Ltd",
+        "Latitude":19.9117027,
+        "Longitude":73.9031799
+    },
+    {
+        "Toll Plaza Name":"Nashirabad",
+        "Latitude":21.0017391,
+        "Longitude":75.6582067
+    },
+    {
+        "Toll Plaza Name":"Nashirabad (MoRTH)",
+        "Latitude":21.0017391,
+        "Longitude":75.6582067
+    },
+    {
+        "Toll Plaza Name":"Padalshingi",
+        "Latitude":19.1529474,
+        "Longitude":75.755671
+    },
+    {
+        "Toll Plaza Name":"Pargaon",
+        "Latitude":18.5600735,
+        "Longitude":74.3733092
+    },
+    {
+        "Toll Plaza Name":"Patas",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Penur Toll Palza",
+        "Latitude":17.7783555,
+        "Longitude":75.5242315
+    },
+    {
+        "Toll Plaza Name":"Phulwadi",
+        "Latitude":22.3428781,
+        "Longitude":73.1648315
+    },
+    {
+        "Toll Plaza Name":"Pimparwadi Toll Plaza",
+        "Latitude":19.8110534,
+        "Longitude":74.2756899
+    },
+    {
+        "Toll Plaza Name":"Salva Jaroda",
+        "Latitude":19.5987422,
+        "Longitude":77.3919617
+    },
+    {
+        "Toll Plaza Name":"Sardewadi \/ Indapur",
+        "Latitude":18.09837,
+        "Longitude":75.065138
+    },
+    {
+        "Toll Plaza Name":"Savitri (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Sawaleshwar",
+        "Latitude":17.7521162,
+        "Longitude":75.7605901
+    },
+    {
+        "Toll Plaza Name":"Selu Ambu",
+        "Latitude":19.4532003,
+        "Longitude":76.4389549
+    },
+    {
+        "Toll Plaza Name":"Selu Toll Plaza",
+        "Latitude":18.6760359,
+        "Longitude":76.3919101
+    },
+    {
+        "Toll Plaza Name":"Shembal Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Shirpur",
+        "Latitude":21.3495981,
+        "Longitude":74.8797127
+    },
+    {
+        "Toll Plaza Name":"Songir",
+        "Latitude":21.0815474,
+        "Longitude":74.7892951
+    },
+    {
+        "Toll Plaza Name":"Subgavhan Kh",
+        "Latitude":20.8687015,
+        "Longitude":74.9734805
+    },
+    {
+        "Toll Plaza Name":"Talmod",
+        "Latitude":17.8275783,
+        "Longitude":76.7516874
+    },
+    {
+        "Toll Plaza Name":"Tamalwadi",
+        "Latitude":17.8413326,
+        "Longitude":75.9630156
+    },
+    {
+        "Toll Plaza Name":"Taroda Kasba Toll Plaza",
+        "Latitude":20.6659744,
+        "Longitude":76.7200921
+    },
+    {
+        "Toll Plaza Name":"Tasawade",
+        "Latitude":17.371022,
+        "Longitude":74.1328046
+    },
+    {
+        "Toll Plaza Name":"Tidagundi",
+        "Latitude":16.9791417,
+        "Longitude":75.754592
+    },
+    {
+        "Toll Plaza Name":"Tiwasa (MoRTH)",
+        "Latitude":20.3550992,
+        "Longitude":77.9831441
+    },
+    {
+        "Toll Plaza Name":"Undewadi (Supe) Toll Palza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Undri Toll Plaza",
+        "Latitude":20.4375134,
+        "Longitude":76.4578941
+    },
+    {
+        "Toll Plaza Name":"Vaidyakinhi Toll Plaza",
+        "Latitude":18.7898486,
+        "Longitude":75.5784702
+    },
+    {
+        "Toll Plaza Name":"Valsang Toll Plaza",
+        "Latitude":17.5898796,
+        "Longitude":76.0745723
+    },
+    {
+        "Toll Plaza Name":"Varwade",
+        "Latitude":20.1743203,
+        "Longitude":72.8929
+    },
+    {
+        "Toll Plaza Name":"Wadakbal (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Wadgaon ( Umred )",
+        "Latitude":20.8474101,
+        "Longitude":79.3246931
+    },
+    {
+        "Toll Plaza Name":"Yedeshi",
+        "Latitude":20.3625923,
+        "Longitude":77.2002745
+    },
+    {
+        "Toll Plaza Name":"Deingpasoh",
+        "Latitude":25.593873,
+        "Longitude":92.0432401
+    },
+    {
+        "Toll Plaza Name":"Lomshinong",
+        "Latitude":25.1693522,
+        "Longitude":92.3936157
+    },
+    {
+        "Toll Plaza Name":"Pahammawlein",
+        "Latitude":25.9932796,
+        "Longitude":91.8604911
+    },
+    {
+        "Toll Plaza Name":"Pasyih",
+        "Latitude":25.4807624,
+        "Longitude":92.2888961
+    },
+    {
+        "Toll Plaza Name":"Badeibadkudar",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Balibhasa",
+        "Latitude":22.2455351,
+        "Longitude":87.1048702
+    },
+    {
+        "Toll Plaza Name":"Banajodi (Padmapur)",
+        "Latitude":21.7177575,
+        "Longitude":85.5843632
+    },
+    {
+        "Toll Plaza Name":"Bandalo (Old Manguli) Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Baragarh (Barhaguda)",
+        "Latitude":21.3548765,
+        "Longitude":83.6765272
+    },
+    {
+        "Toll Plaza Name":"Bhagada Narayanpur Toll",
+        "Latitude":20.9437602,
+        "Longitude":86.3262831
+    },
+    {
+        "Toll Plaza Name":"Bolangir Toll Plaza",
+        "Latitude":20.7407941,
+        "Longitude":83.6310796
+    },
+    {
+        "Toll Plaza Name":"Darjing",
+        "Latitude":21.9313504,
+        "Longitude":84.8945709
+    },
+    {
+        "Toll Plaza Name":"Govindpur ( Brajarajnagar )",
+        "Latitude":21.8284575,
+        "Longitude":83.9175926
+    },
+    {
+        "Toll Plaza Name":"Gudipada (Old Gangapada)",
+        "Latitude":20.2035223,
+        "Longitude":85.6686109
+    },
+    {
+        "Toll Plaza Name":"Gurapalli",
+        "Latitude":19.6187071,
+        "Longitude":85.1142207
+    },
+    {
+        "Toll Plaza Name":"Hasanpur (Sainkul)",
+        "Latitude":21.1169327,
+        "Longitude":86.1357423
+    },
+    {
+        "Toll Plaza Name":"Jansanpur",
+        "Latitude":21.4483189,
+        "Longitude":85.3733809
+    },
+    {
+        "Toll Plaza Name":"Jhamudihi Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Jharpokhria Toll",
+        "Latitude":22.1803875,
+        "Longitude":86.6473133
+    },
+    {
+        "Toll Plaza Name":"Kadaligarh Toll PLaza",
+        "Latitude":20.9594534,
+        "Longitude":84.3136549
+    },
+    {
+        "Toll Plaza Name":"Kandra",
+        "Latitude":22.8481542,
+        "Longitude":86.0504111
+    },
+    {
+        "Toll Plaza Name":"Khamar",
+        "Latitude":21.2639614,
+        "Longitude":85.1967556
+    },
+    {
+        "Toll Plaza Name":"Khantaghar (Dhenkikote)",
+        "Latitude":21.5085424,
+        "Longitude":85.8260668
+    },
+    {
+        "Toll Plaza Name":"Khereitangiri",
+        "Latitude":21.7118616,
+        "Longitude":85.6999789
+    },
+    {
+        "Toll Plaza Name":"Nunmath Toll Plaza",
+        "Latitude":20.2829389,
+        "Longitude":83.2960972
+    },
+    {
+        "Toll Plaza Name":"Paat Sahanipur (Pipli)",
+        "Latitude":20.1379876,
+        "Longitude":85.8601388
+    },
+    {
+        "Toll Plaza Name":"Padmanavpur",
+        "Latitude":20.5618513,
+        "Longitude":85.595862
+    },
+    {
+        "Toll Plaza Name":"Panikholi",
+        "Latitude":20.9121939,
+        "Longitude":86.2285536
+    },
+    {
+        "Toll Plaza Name":"Pudapada Nildungri Toll Plaza",
+        "Latitude":21.4538426,
+        "Longitude":84.1105259
+    },
+    {
+        "Toll Plaza Name":"Rangamatia Toll Plaza",
+        "Latitude":20.3659625,
+        "Longitude":84.7937031
+    },
+    {
+        "Toll Plaza Name":"Sergarh",
+        "Latitude":20.1704483,
+        "Longitude":83.4510164
+    },
+    {
+        "Toll Plaza Name":"Srirampur",
+        "Latitude":22.7505213,
+        "Longitude":88.3405772
+    },
+    {
+        "Toll Plaza Name":"Sukhuapada",
+        "Latitude":21.3784617,
+        "Longitude":86.3248214
+    },
+    {
+        "Toll Plaza Name":"Abul Khurana Toll Plaza",
+        "Latitude":30.1395861,
+        "Longitude":74.5375693
+    },
+    {
+        "Toll Plaza Name":"Azizpur",
+        "Latitude":30.5906722,
+        "Longitude":76.7531301
+    },
+    {
+        "Toll Plaza Name":"Bachhuan",
+        "Latitude":25.97703,
+        "Longitude":85.3885333
+    },
+    {
+        "Toll Plaza Name":"Badbar",
+        "Latitude":30.2529964,
+        "Longitude":75.6644473
+    },
+    {
+        "Toll Plaza Name":"Balluana",
+        "Latitude":30.2236213,
+        "Longitude":74.7819819
+    },
+    {
+        "Toll Plaza Name":"Behram",
+        "Latitude":31.2047726,
+        "Longitude":75.8918811
+    },
+    {
+        "Toll Plaza Name":"Bhagupur Toll Plaza",
+        "Latitude":31.2499858,
+        "Longitude":74.8275794
+    },
+    {
+        "Toll Plaza Name":"Chahar",
+        "Latitude":30.031106,
+        "Longitude":75.9085792
+    },
+    {
+        "Toll Plaza Name":"Chak Bamniya",
+        "Latitude":31.0174349,
+        "Longitude":75.2999185
+    },
+    {
+        "Toll Plaza Name":"Chandimandir",
+        "Latitude":30.7285106,
+        "Longitude":76.8922729
+    },
+    {
+        "Toll Plaza Name":"Chhotian",
+        "Latitude":29.7205185,
+        "Longitude":75.3372095
+    },
+    {
+        "Toll Plaza Name":"Chiddan",
+        "Latitude":31.6339875,
+        "Longitude":74.6927354
+    },
+    {
+        "Toll Plaza Name":"Chollang",
+        "Latitude":31.6081479,
+        "Longitude":75.6444479
+    },
+    {
+        "Toll Plaza Name":"Dappar",
+        "Latitude":30.5209905,
+        "Longitude":76.8140693
+    },
+    {
+        "Toll Plaza Name":"Darapur Toll Plaza",
+        "Latitude":30.8401266,
+        "Longitude":74.9772849
+    },
+    {
+        "Toll Plaza Name":"Dhareri jattan",
+        "Latitude":30.3946857,
+        "Longitude":76.4989603
+    },
+    {
+        "Toll Plaza Name":"Dhilwan",
+        "Latitude":31.509998,
+        "Longitude":75.3353875
+    },
+    {
+        "Toll Plaza Name":"Ferozeshah",
+        "Latitude":30.8776206,
+        "Longitude":74.7892951
+    },
+    {
+        "Toll Plaza Name":"Gurhe  (Chowkiman )",
+        "Latitude":30.8331267,
+        "Longitude":75.575702
+    },
+    {
+        "Toll Plaza Name":"Harsa Mansar",
+        "Latitude":32.0584137,
+        "Longitude":75.612807
+    },
+    {
+        "Toll Plaza Name":"Kala Tibba",
+        "Latitude":30.889968,
+        "Longitude":74.5064108
+    },
+    {
+        "Toll Plaza Name":"Kalajhar",
+        "Latitude":30.2708322,
+        "Longitude":76.1508385
+    },
+    {
+        "Toll Plaza Name":"Karahewala",
+        "Latitude":31.0513835,
+        "Longitude":75.0619539
+    },
+    {
+        "Toll Plaza Name":"Khuian Malkan",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kot Karor",
+        "Latitude":30.8200677,
+        "Longitude":74.9179543
+    },
+    {
+        "Toll Plaza Name":"Kurali (Behrampur)",
+        "Latitude":30.8307681,
+        "Longitude":76.5800987
+    },
+    {
+        "Toll Plaza Name":"Ladhowal",
+        "Latitude":30.9784526,
+        "Longitude":75.7938309
+    },
+    {
+        "Toll Plaza Name":"Ladpalwan",
+        "Latitude":32.1940552,
+        "Longitude":75.5422268
+    },
+    {
+        "Toll Plaza Name":"Lehrabega Toll Plaza",
+        "Latitude":30.2330182,
+        "Longitude":75.1019522
+    },
+    {
+        "Toll Plaza Name":"Mallian Toll Plaza",
+        "Latitude":30.4465307,
+        "Longitude":75.4300613
+    },
+    {
+        "Toll Plaza Name":"Manan",
+        "Latitude":31.280499,
+        "Longitude":75.3926758
+    },
+    {
+        "Toll Plaza Name":"Milk Majra",
+        "Latitude":30.2078281,
+        "Longitude":77.1984778
+    },
+    {
+        "Toll Plaza Name":"Nijjarpura",
+        "Latitude":31.570901,
+        "Longitude":74.9946631
+    },
+    {
+        "Toll Plaza Name":"Paind",
+        "Latitude":29.8972663,
+        "Longitude":76.0921261
+    },
+    {
+        "Toll Plaza Name":"Usma",
+        "Latitude":26.088208,
+        "Longitude":85.8985046
+    },
+    {
+        "Toll Plaza Name":"Waryam Nangal",
+        "Latitude":31.7498134,
+        "Longitude":75.0289877
+    },
+    {
+        "Toll Plaza Name":"Zidda",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Akhepura",
+        "Latitude":27.0295939,
+        "Longitude":75.8228899
+    },
+    {
+        "Toll Plaza Name":"Amoli",
+        "Latitude":28.4454293,
+        "Longitude":76.4982375
+    },
+    {
+        "Toll Plaza Name":"Aroli",
+        "Latitude":11.9845571,
+        "Longitude":75.380936
+    },
+    {
+        "Toll Plaza Name":"Bad ka pada Fee plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Badhera Toll Plaza",
+        "Latitude":31.5495261,
+        "Longitude":76.1389236
+    },
+    {
+        "Toll Plaza Name":"Badighati",
+        "Latitude":26.5338703,
+        "Longitude":74.505312
+    },
+    {
+        "Toll Plaza Name":"Bagaliya",
+        "Latitude":22.0223303,
+        "Longitude":73.9506774
+    },
+    {
+        "Toll Plaza Name":"Baggad",
+        "Latitude":22.7029003,
+        "Longitude":75.4402993
+    },
+    {
+        "Toll Plaza Name":"Baggad (MoRTH)",
+        "Latitude":22.7029003,
+        "Longitude":75.4402993
+    },
+    {
+        "Toll Plaza Name":"Bahala Toll Plaza",
+        "Latitude":27.5273666,
+        "Longitude":76.717188
+    },
+    {
+        "Toll Plaza Name":"Balana",
+        "Latitude":30.320289,
+        "Longitude":76.7293233
+    },
+    {
+        "Toll Plaza Name":"Banthadi",
+        "Latitude":27.2740862,
+        "Longitude":74.3528822
+    },
+    {
+        "Toll Plaza Name":"Barkheda (Chandlai)",
+        "Latitude":26.6864136,
+        "Longitude":75.8780855
+    },
+    {
+        "Toll Plaza Name":"Barsalpur",
+        "Latitude":28.1860531,
+        "Longitude":72.2454448
+    },
+    {
+        "Toll Plaza Name":"Bassi",
+        "Latitude":26.8419275,
+        "Longitude":76.0521171
+    },
+    {
+        "Toll Plaza Name":"Beer Mandi",
+        "Latitude":24.6614671,
+        "Longitude":76.0232338
+    },
+    {
+        "Toll Plaza Name":"Bhandaraj Fee Plaza",
+        "Latitude":21.1600173,
+        "Longitude":77.2063436
+    },
+    {
+        "Toll Plaza Name":"Binawas",
+        "Latitude":26.280702,
+        "Longitude":73.3738169
+    },
+    {
+        "Toll Plaza Name":"Birami",
+        "Latitude":26.1582006,
+        "Longitude":73.2352525
+    },
+    {
+        "Toll Plaza Name":"Biratiya Kalan",
+        "Latitude":26.1071115,
+        "Longitude":74.0847673
+    },
+    {
+        "Toll Plaza Name":"Bor Charnan",
+        "Latitude":25.1275788,
+        "Longitude":71.5664607
+    },
+    {
+        "Toll Plaza Name":"Bungri",
+        "Latitude":31.1278136,
+        "Longitude":76.3362312
+    },
+    {
+        "Toll Plaza Name":"Butati (Kuchera)",
+        "Latitude":26.8980929,
+        "Longitude":73.9844722
+    },
+    {
+        "Toll Plaza Name":"Chila Chond",
+        "Latitude":26.6129885,
+        "Longitude":77.5154422
+    },
+    {
+        "Toll Plaza Name":"Choti villor",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Dakan Kotra",
+        "Latitude":24.4790568,
+        "Longitude":73.7419017
+    },
+    {
+        "Toll Plaza Name":"Dangiyawas",
+        "Latitude":26.265717,
+        "Longitude":73.2839074
+    },
+    {
+        "Toll Plaza Name":"Daulatpura",
+        "Latitude":28.6497691,
+        "Longitude":77.4404468
+    },
+    {
+        "Toll Plaza Name":"Deogarh",
+        "Latitude":21.5383136,
+        "Longitude":84.7289442
+    },
+    {
+        "Toll Plaza Name":"Deshnok",
+        "Latitude":27.7967826,
+        "Longitude":73.3438385
+    },
+    {
+        "Toll Plaza Name":"Dhadhar",
+        "Latitude":28.3301603,
+        "Longitude":75.064091
+    },
+    {
+        "Toll Plaza Name":"Dhaneshwar",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Dhulepura",
+        "Latitude":27.5610626,
+        "Longitude":75.5829782
+    },
+    {
+        "Toll Plaza Name":"Doli",
+        "Latitude":26.0556674,
+        "Longitude":72.6609428
+    },
+    {
+        "Toll Plaza Name":"Dungarpur Fee Plaza",
+        "Latitude":23.8518813,
+        "Longitude":73.7204305
+    },
+    {
+        "Toll Plaza Name":"Fatehpur",
+        "Latitude":25.9209503,
+        "Longitude":80.7996035
+    },
+    {
+        "Toll Plaza Name":"Gajangarh Toll Plaza",
+        "Latitude":25.8356689,
+        "Longitude":73.2234557
+    },
+    {
+        "Toll Plaza Name":"Gangajali",
+        "Latitude":28.4539948,
+        "Longitude":72.6032895
+    },
+    {
+        "Toll Plaza Name":"Gegal",
+        "Latitude":26.5549877,
+        "Longitude":74.7662575
+    },
+    {
+        "Toll Plaza Name":"Gogela fee Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Gogunda (Jaswantgarh)",
+        "Latitude":24.755264,
+        "Longitude":73.5284737
+    },
+    {
+        "Toll Plaza Name":"Gumanpura",
+        "Latitude":25.170401,
+        "Longitude":75.8470331
+    },
+    {
+        "Toll Plaza Name":"Harimma",
+        "Latitude":27.2626529,
+        "Longitude":73.859549
+    },
+    {
+        "Toll Plaza Name":"Hathitala",
+        "Latitude":25.5559454,
+        "Longitude":71.4358733
+    },
+    {
+        "Toll Plaza Name":"Hindor Toll Plaza",
+        "Latitude":29.1012213,
+        "Longitude":73.853973
+    },
+    {
+        "Toll Plaza Name":"Hingonia",
+        "Latitude":27.0325113,
+        "Longitude":75.4621467
+    },
+    {
+        "Toll Plaza Name":"Indranagar",
+        "Latitude":23.8551147,
+        "Longitude":91.3044825
+    },
+    {
+        "Toll Plaza Name":"Jaitpur (Jaipur)",
+        "Latitude":26.9124336,
+        "Longitude":75.7872709
+    },
+    {
+        "Toll Plaza Name":"Jasnathnagar",
+        "Latitude":26.7738202,
+        "Longitude":72.8590653
+    },
+    {
+        "Toll Plaza Name":"Jaswantpura",
+        "Latitude":24.8019253,
+        "Longitude":72.4598398
+    },
+    {
+        "Toll Plaza Name":"Jathon Ki Dhani ( Hanuman Sagar )",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Jojro Ka Khera",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kadisahena",
+        "Latitude":25.6536557,
+        "Longitude":74.9906459
+    },
+    {
+        "Toll Plaza Name":"Kair Fakir ki Dhani",
+        "Latitude":26.6252397,
+        "Longitude":71.2033907
+    },
+    {
+        "Toll Plaza Name":"Karel toll plaza",
+        "Latitude":24.2127734,
+        "Longitude":73.3524169
+    },
+    {
+        "Toll Plaza Name":"Khachrol",
+        "Latitude":25.22741,
+        "Longitude":75.0660409
+    },
+    {
+        "Toll Plaza Name":"Khandi Obari",
+        "Latitude":23.9945706,
+        "Longitude":73.6295469
+    },
+    {
+        "Toll Plaza Name":"Khara",
+        "Latitude":30.5330832,
+        "Longitude":74.7117591
+    },
+    {
+        "Toll Plaza Name":"Khedi",
+        "Latitude":23.4564088,
+        "Longitude":77.3367498
+    },
+    {
+        "Toll Plaza Name":"Kheerwa",
+        "Latitude":27.2901326,
+        "Longitude":72.3207531
+    },
+    {
+        "Toll Plaza Name":"Khudiyala",
+        "Latitude":26.5219857,
+        "Longitude":72.6875476
+    },
+    {
+        "Toll Plaza Name":"Kishangarh (Badgaon)",
+        "Latitude":26.5866303,
+        "Longitude":74.8541759
+    },
+    {
+        "Toll Plaza Name":"Kishorepura",
+        "Latitude":25.1690162,
+        "Longitude":75.8279746
+    },
+    {
+        "Toll Plaza Name":"Kondar",
+        "Latitude":25.5566675,
+        "Longitude":77.959588
+    },
+    {
+        "Toll Plaza Name":"Korai",
+        "Latitude":20.9646294,
+        "Longitude":86.177719
+    },
+    {
+        "Toll Plaza Name":"Lakhasar",
+        "Latitude":28.0986538,
+        "Longitude":73.8696059
+    },
+    {
+        "Toll Plaza Name":"Lal Ka Khera",
+        "Latitude":25.4933789,
+        "Longitude":75.3106062
+    },
+    {
+        "Toll Plaza Name":"Lambiya Kalan",
+        "Latitude":25.598264,
+        "Longitude":74.5873348
+    },
+    {
+        "Toll Plaza Name":"Lasedi",
+        "Latitude":28.7088387,
+        "Longitude":75.4814672
+    },
+    {
+        "Toll Plaza Name":"LATHI",
+        "Latitude":21.7268121,
+        "Longitude":71.3884865
+    },
+    {
+        "Toll Plaza Name":"Laxmannagar",
+        "Latitude":19.2404113,
+        "Longitude":76.971507
+    },
+    {
+        "Toll Plaza Name":"Lilamba",
+        "Latitude":26.0838927,
+        "Longitude":74.0035709
+    },
+    {
+        "Toll Plaza Name":"Ludhawai",
+        "Latitude":27.1802729,
+        "Longitude":77.3984704
+    },
+    {
+        "Toll Plaza Name":"Malera",
+        "Latitude":29.6729997,
+        "Longitude":79.6431929
+    },
+    {
+        "Toll Plaza Name":"Malkisar",
+        "Latitude":28.6696495,
+        "Longitude":73.9065883
+    },
+    {
+        "Toll Plaza Name":"Manaklavo",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Mandana",
+        "Latitude":24.9458196,
+        "Longitude":75.9434209
+    },
+    {
+        "Toll Plaza Name":"Mandawada (Gomati)",
+        "Latitude":23.5166711,
+        "Longitude":91.637215
+    },
+    {
+        "Toll Plaza Name":"Manoharpur",
+        "Latitude":22.3730219,
+        "Longitude":85.1971763
+    },
+    {
+        "Toll Plaza Name":"Meghawas",
+        "Latitude":26.1445636,
+        "Longitude":72.467236
+    },
+    {
+        "Toll Plaza Name":"Methoon",
+        "Latitude":24.3953552,
+        "Longitude":76.4967919
+    },
+    {
+        "Toll Plaza Name":"Moothli",
+        "Latitude":25.6953154,
+        "Longitude":72.2807896
+    },
+    {
+        "Toll Plaza Name":"Morani (Pokaran)",
+        "Latitude":26.9207919,
+        "Longitude":71.9224355
+    },
+    {
+        "Toll Plaza Name":"Motisar (Kanori)",
+        "Latitude":20.9862759,
+        "Longitude":71.0910034
+    },
+    {
+        "Toll Plaza Name":"Mujras",
+        "Latitude":30.8146193,
+        "Longitude":75.9688387
+    },
+    {
+        "Toll Plaza Name":"Narayanpura",
+        "Latitude":23.0521705,
+        "Longitude":72.5497069
+    },
+    {
+        "Toll Plaza Name":"Narsana",
+        "Latitude":25.1188964,
+        "Longitude":72.0408906
+    },
+    {
+        "Toll Plaza Name":"Narshinghgarh Toll Plaza",
+        "Latitude":24.5523485,
+        "Longitude":74.6664414
+    },
+    {
+        "Toll Plaza Name":"Nayagaon(RHS) (Staggered)",
+        "Latitude":30.7730251,
+        "Longitude":76.793527
+    },
+    {
+        "Toll Plaza Name":"Negadiya",
+        "Latitude":24.6021179,
+        "Longitude":74.2039919
+    },
+    {
+        "Toll Plaza Name":"Nekawala",
+        "Latitude":27.2365041,
+        "Longitude":76.0594972
+    },
+    {
+        "Toll Plaza Name":"Netra",
+        "Latitude":22.4323608,
+        "Longitude":88.6361959
+    },
+    {
+        "Toll Plaza Name":"Nimbahera Toll Plaza",
+        "Latitude":24.6239992,
+        "Longitude":74.6892525
+    },
+    {
+        "Toll Plaza Name":"Nimbali Toll Plaza",
+        "Latitude":26.0185675,
+        "Longitude":73.0888646
+    },
+    {
+        "Toll Plaza Name":"Nimbaniya Ki Dhani (Bayatu)",
+        "Latitude":25.8970237,
+        "Longitude":71.7665209
+    },
+    {
+        "Toll Plaza Name":"Nimbasar",
+        "Latitude":26.1294892,
+        "Longitude":71.2933602
+    },
+    {
+        "Toll Plaza Name":"Nimbi Jodha",
+        "Latitude":27.5326783,
+        "Longitude":74.3448649
+    },
+    {
+        "Toll Plaza Name":"Nokhra",
+        "Latitude":27.6358866,
+        "Longitude":72.6478161
+    },
+    {
+        "Toll Plaza Name":"Norangdesar",
+        "Latitude":28.0749248,
+        "Longitude":73.5465786
+    },
+    {
+        "Toll Plaza Name":"Ochadi toll plaza",
+        "Latitude":24.825842,
+        "Longitude":74.628798
+    },
+    {
+        "Toll Plaza Name":"Paduna",
+        "Latitude":24.2801891,
+        "Longitude":73.6720159
+    },
+    {
+        "Toll Plaza Name":"Pallai",
+        "Latitude":25.8780813,
+        "Longitude":75.9448725
+    },
+    {
+        "Toll Plaza Name":"Panchu",
+        "Latitude":27.5037578,
+        "Longitude":73.2058993
+    },
+    {
+        "Toll Plaza Name":"Parwa",
+        "Latitude":31.1674458,
+        "Longitude":75.7400563
+    },
+    {
+        "Toll Plaza Name":"Patau",
+        "Latitude":25.9565073,
+        "Longitude":72.391785
+    },
+    {
+        "Toll Plaza Name":"Patrauda",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Piplaz",
+        "Latitude":22.9572045,
+        "Longitude":72.5583946
+    },
+    {
+        "Toll Plaza Name":"Rabawata",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Raipur",
+        "Latitude":21.2513844,
+        "Longitude":81.6296413
+    },
+    {
+        "Toll Plaza Name":"Rajadhok",
+        "Latitude":26.8589972,
+        "Longitude":76.1040524
+    },
+    {
+        "Toll Plaza Name":"Rajora Khurd",
+        "Latitude":26.8379008,
+        "Longitude":77.7137306
+    },
+    {
+        "Toll Plaza Name":"Ramdevra",
+        "Latitude":27.0083843,
+        "Longitude":71.922199
+    },
+    {
+        "Toll Plaza Name":"Rashidpura",
+        "Latitude":19.8968015,
+        "Longitude":75.3442618
+    },
+    {
+        "Toll Plaza Name":"Riasinghnagar(Thakri) and Patroda Toll Plaza",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Rupa Kheda",
+        "Latitude":23.0922156,
+        "Longitude":75.1574567
+    },
+    {
+        "Toll Plaza Name":"Sakatpura(LHS)(Staggered)",
+        "Latitude":25.1799636,
+        "Longitude":75.828701
+    },
+    {
+        "Toll Plaza Name":"Salasar",
+        "Latitude":27.7254672,
+        "Longitude":74.7249281
+    },
+    {
+        "Toll Plaza Name":"Sangana",
+        "Latitude":25.3323393,
+        "Longitude":72.1001434
+    },
+    {
+        "Toll Plaza Name":"Seora",
+        "Latitude":27.5941985,
+        "Longitude":72.3547915
+    },
+    {
+        "Toll Plaza Name":"Shahjahanpur",
+        "Latitude":27.8753399,
+        "Longitude":79.9147268
+    },
+    {
+        "Toll Plaza Name":"Shobhasar",
+        "Latitude":27.7752774,
+        "Longitude":74.7217445
+    },
+    {
+        "Toll Plaza Name":"Sidhpura Toll Plaza",
+        "Latitude":24.0940171,
+        "Longitude":74.7523623
+    },
+    {
+        "Toll Plaza Name":"Sikandra",
+        "Latitude":27.217135,
+        "Longitude":77.9466756
+    },
+    {
+        "Toll Plaza Name":"Simliya Toll Plaza",
+        "Latitude":25.1699842,
+        "Longitude":76.130611
+    },
+    {
+        "Toll Plaza Name":"Sirmandi",
+        "Latitude":26.7730053,
+        "Longitude":72.8292238
+    },
+    {
+        "Toll Plaza Name":"Sitarampura",
+        "Latitude":26.7467226,
+        "Longitude":75.7618593
+    },
+    {
+        "Toll Plaza Name":"SixML",
+        "Latitude":29.8106211,
+        "Longitude":73.8755075
+    },
+    {
+        "Toll Plaza Name":"Sonwa (Sonva)",
+        "Latitude":26.1157902,
+        "Longitude":75.7894716
+    },
+    {
+        "Toll Plaza Name":"Tamdoli",
+        "Latitude":26.8700893,
+        "Longitude":74.2931218
+    },
+    {
+        "Toll Plaza Name":"Tankla",
+        "Latitude":27.0286292,
+        "Longitude":73.5137654
+    },
+    {
+        "Toll Plaza Name":"Tatiyawas",
+        "Latitude":27.0897662,
+        "Longitude":75.7415489
+    },
+    {
+        "Toll Plaza Name":"Thikariya (Jaipur)",
+        "Latitude":26.853538,
+        "Longitude":75.6293796
+    },
+    {
+        "Toll Plaza Name":"Thirpali Badi",
+        "Latitude":28.3917236,
+        "Longitude":75.5567821
+    },
+    {
+        "Toll Plaza Name":"Tidiyasar",
+        "Latitude":28.853265,
+        "Longitude":74.7791482
+    },
+    {
+        "Toll Plaza Name":"Titoli",
+        "Latitude":19.6936072,
+        "Longitude":73.5864686
+    },
+    {
+        "Toll Plaza Name":"Uchharangdesar",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Udairamsar",
+        "Latitude":27.9354618,
+        "Longitude":73.2942267
+    },
+    {
+        "Toll Plaza Name":"Uthamam",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Athur (Tindivanam)",
+        "Latitude":12.2123655,
+        "Longitude":79.6923047
+    },
+    {
+        "Toll Plaza Name":"Bogalur",
+        "Latitude":9.4183655,
+        "Longitude":78.7474353
+    },
+    {
+        "Toll Plaza Name":"Boothakudi",
+        "Latitude":9.9912396,
+        "Longitude":78.1208079
+    },
+    {
+        "Toll Plaza Name":"Chatrapatti Toll Plaza",
+        "Latitude":10.4804498,
+        "Longitude":77.6370801
+    },
+    {
+        "Toll Plaza Name":"Chennasamudram",
+        "Latitude":11.060611,
+        "Longitude":77.9053752
+    },
+    {
+        "Toll Plaza Name":"Chittampatti",
+        "Latitude":9.9959856,
+        "Longitude":78.2208401
+    },
+    {
+        "Toll Plaza Name":"Eliyarpathi",
+        "Latitude":9.783006,
+        "Longitude":78.0945416
+    },
+    {
+        "Toll Plaza Name":"Enamkariyanandal Toll plaza",
+        "Latitude":12.2873114,
+        "Longitude":79.0690826
+    },
+    {
+        "Toll Plaza Name":"Etturvattam",
+        "Latitude":9.3930713,
+        "Longitude":77.9124605
+    },
+    {
+        "Toll Plaza Name":"Gangarampalayam",
+        "Latitude":11.9163135,
+        "Longitude":79.6136156
+    },
+    {
+        "Toll Plaza Name":"H Pudhupatti",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kallakudi",
+        "Latitude":10.9790683,
+        "Longitude":78.9521511
+    },
+    {
+        "Toll Plaza Name":"Kaniyur",
+        "Latitude":11.0932342,
+        "Longitude":77.1468419
+    },
+    {
+        "Toll Plaza Name":"Kappalur",
+        "Latitude":9.8358791,
+        "Longitude":78.0338078
+    },
+    {
+        "Toll Plaza Name":"Kariyamangalam Fee Plaza",
+        "Latitude":12.2870243,
+        "Longitude":78.8304004
+    },
+    {
+        "Toll Plaza Name":"Keezhkuppam",
+        "Latitude":11.5768802,
+        "Longitude":78.9360853
+    },
+    {
+        "Toll Plaza Name":"Kodai Road (Kozhinjipatti )",
+        "Latitude":11.5995909,
+        "Longitude":78.1193823
+    },
+    {
+        "Toll Plaza Name":"Kodikottai",
+        "Latitude":9.8945151,
+        "Longitude":78.8466674
+    },
+    {
+        "Toll Plaza Name":"Kothattai",
+        "Latitude":11.4695562,
+        "Longitude":79.2205747
+    },
+    {
+        "Toll Plaza Name":"Kozhinjipatti (Kodai Road)",
+        "Latitude":11.5995909,
+        "Longitude":78.1193823
+    },
+    {
+        "Toll Plaza Name":"Krishnagiri",
+        "Latitude":12.5265661,
+        "Longitude":78.2149575
+    },
+    {
+        "Toll Plaza Name":"Kurungudi  ( Veerananallur )",
+        "Latitude":11.2627915,
+        "Longitude":79.5406738
+    },
+    {
+        "Toll Plaza Name":"Lechchumanapatti",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Lembalakudi",
+        "Latitude":10.3214107,
+        "Longitude":78.7229389
+    },
+    {
+        "Toll Plaza Name":"Managethi",
+        "Latitude":11.1359812,
+        "Longitude":79.2352468
+    },
+    {
+        "Toll Plaza Name":"Manavasi",
+        "Latitude":10.9337876,
+        "Longitude":78.2205563
+    },
+    {
+        "Toll Plaza Name":"Mathur",
+        "Latitude":27.4924134,
+        "Longitude":77.673673
+    },
+    {
+        "Toll Plaza Name":"Mettupatti",
+        "Latitude":11.6648324,
+        "Longitude":78.311672
+    },
+    {
+        "Toll Plaza Name":"Morattandi",
+        "Latitude":11.978334,
+        "Longitude":79.7889094
+    },
+    {
+        "Toll Plaza Name":"Nagampatti Fee Plaza",
+        "Latitude":9.0009335,
+        "Longitude":77.9503069
+    },
+    {
+        "Toll Plaza Name":"Nallur",
+        "Latitude":14.0872194,
+        "Longitude":75.8773594
+    },
+    {
+        "Toll Plaza Name":"Nangilikondan Fee Plaza",
+        "Latitude":12.2543996,
+        "Longitude":79.4619506
+    },
+    {
+        "Toll Plaza Name":"Nanguneri",
+        "Latitude":8.4961056,
+        "Longitude":77.6464534
+    },
+    {
+        "Toll Plaza Name":"Nathakkarai",
+        "Latitude":11.5893073,
+        "Longitude":78.7687256
+    },
+    {
+        "Toll Plaza Name":"Nemili (Sriperumbudur)",
+        "Latitude":12.98214,
+        "Longitude":79.936869
+    },
+    {
+        "Toll Plaza Name":"Omallur",
+        "Latitude":9.2467503,
+        "Longitude":76.750966
+    },
+    {
+        "Toll Plaza Name":"Palaya Gandharvakottai",
+        "Latitude":10.5993614,
+        "Longitude":79.0193594
+    },
+    {
+        "Toll Plaza Name":"Palayam (Dharmapuri)",
+        "Latitude":12.0739721,
+        "Longitude":78.5697975
+    },
+    {
+        "Toll Plaza Name":"Pallikonda",
+        "Latitude":12.9043057,
+        "Longitude":78.9411778
+    },
+    {
+        "Toll Plaza Name":"Pamban Bridge (MoRTH)",
+        "Latitude":9.2829355,
+        "Longitude":79.1955324
+    },
+    {
+        "Toll Plaza Name":"Paranur (Chengalpet)",
+        "Latitude":12.6978008,
+        "Longitude":79.9761382
+    },
+    {
+        "Toll Plaza Name":"Pattaraiperumbudur (temporary TP)",
+        "Latitude":13.1545905,
+        "Longitude":79.8254722
+    },
+    {
+        "Toll Plaza Name":"Ponnambalapatti",
+        "Latitude":10.5481933,
+        "Longitude":78.28036
+    },
+    {
+        "Toll Plaza Name":"Pudhurpandiyapuram",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Pudur",
+        "Latitude":13.1299346,
+        "Longitude":80.1603018
+    },
+    {
+        "Toll Plaza Name":"Pudur",
+        "Latitude":13.1299346,
+        "Longitude":80.1603018
+    },
+    {
+        "Toll Plaza Name":"Rasampalayan",
+        "Latitude":11.1936401,
+        "Longitude":78.1069678
+    },
+    {
+        "Toll Plaza Name":"S V Puram",
+        "Latitude":10.5748765,
+        "Longitude":77.2648345
+    },
+    {
+        "Toll Plaza Name":"Salaipudhur",
+        "Latitude":11.0600542,
+        "Longitude":77.8860316
+    },
+    {
+        "Toll Plaza Name":"Samayapuram",
+        "Latitude":10.9193856,
+        "Longitude":78.7409075
+    },
+    {
+        "Toll Plaza Name":"Sengurichi",
+        "Latitude":11.7141129,
+        "Longitude":79.3331617
+    },
+    {
+        "Toll Plaza Name":"Shenbagampettai",
+        "Latitude":10.1567899,
+        "Longitude":78.6398737
+    },
+    {
+        "Toll Plaza Name":"Surapattu (Chennai Bypass II)",
+        "Latitude":13.0306395,
+        "Longitude":80.1480335
+    },
+    {
+        "Toll Plaza Name":"Thennamadevi Toll plaza",
+        "Latitude":11.9829029,
+        "Longitude":79.4834931
+    },
+    {
+        "Toll Plaza Name":"Thirumandurai",
+        "Latitude":11.3952512,
+        "Longitude":79.0050497
+    },
+    {
+        "Toll Plaza Name":"Thirupathisaram Toll plaza",
+        "Latitude":8.2061709,
+        "Longitude":77.4606031
+    },
+    {
+        "Toll Plaza Name":"Thiruppachethi",
+        "Latitude":9.7748144,
+        "Longitude":78.3436859
+    },
+    {
+        "Toll Plaza Name":"Thirupparaithurai",
+        "Latitude":10.8837786,
+        "Longitude":78.5653754
+    },
+    {
+        "Toll Plaza Name":"Thuvakudi",
+        "Latitude":10.7526158,
+        "Longitude":78.8297701
+    },
+    {
+        "Toll Plaza Name":"U.Ponnalagaram",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Vagaikulam ( Pudukottai )",
+        "Latitude":10.3832867,
+        "Longitude":78.800129
+    },
+    {
+        "Toll Plaza Name":"Vaigundam",
+        "Latitude":11.5201656,
+        "Longitude":77.9443084
+    },
+    {
+        "Toll Plaza Name":"Valavanthankottai",
+        "Latitude":10.7694757,
+        "Longitude":78.835433
+    },
+    {
+        "Toll Plaza Name":"Vallam Toll plaza",
+        "Latitude":10.7140158,
+        "Longitude":79.0701548
+    },
+    {
+        "Toll Plaza Name":"Vanagaram (Chennai Bypass)",
+        "Latitude":13.055372,
+        "Longitude":80.1572161
+    },
+    {
+        "Toll Plaza Name":"Vaniyambadi",
+        "Latitude":12.6824796,
+        "Longitude":78.6167374
+    },
+    {
+        "Toll Plaza Name":"Veeracholapuram (West)",
+        "Latitude":11.9444311,
+        "Longitude":79.2965535
+    },
+    {
+        "Toll Plaza Name":"Velampatti Toll Plaza",
+        "Latitude":10.9935149,
+        "Longitude":77.4181102
+    },
+    {
+        "Toll Plaza Name":"Velanchettiyur",
+        "Latitude":10.7047089,
+        "Longitude":77.9335276
+    },
+    {
+        "Toll Plaza Name":"Vennathur",
+        "Latitude":9.5261736,
+        "Longitude":78.8950145
+    },
+    {
+        "Toll Plaza Name":"Vijaymangalmam",
+        "Latitude":11.2339659,
+        "Longitude":77.5012864
+    },
+    {
+        "Toll Plaza Name":"Vikravandi(Villupuram)",
+        "Latitude":12.0375484,
+        "Longitude":79.5461681
+    },
+    {
+        "Toll Plaza Name":"Bhiknoor",
+        "Latitude":18.1860781,
+        "Longitude":78.3981799
+    },
+    {
+        "Toll Plaza Name":"Chinthapally",
+        "Latitude":16.801618,
+        "Longitude":78.8201348
+    },
+    {
+        "Toll Plaza Name":"Chitlapalli",
+        "Latitude":17.0995932,
+        "Longitude":77.5676735
+    },
+    {
+        "Toll Plaza Name":"Dharmaram",
+        "Latitude":18.3040648,
+        "Longitude":79.4879685
+    },
+    {
+        "Toll Plaza Name":"Dilawarpur",
+        "Latitude":19.0917821,
+        "Longitude":78.2273949
+    },
+    {
+        "Toll Plaza Name":"Gamjal",
+        "Latitude":19.0207864,
+        "Longitude":78.3649791
+    },
+    {
+        "Toll Plaza Name":"Gowraram",
+        "Latitude":17.7740667,
+        "Longitude":78.653475
+    },
+    {
+        "Toll Plaza Name":"Gudur (Hyd-Yadgiri)",
+        "Latitude":16.748739,
+        "Longitude":77.130872
+    },
+    {
+        "Toll Plaza Name":"Gummadidala",
+        "Latitude":17.6847171,
+        "Longitude":78.3685788
+    },
+    {
+        "Toll Plaza Name":"Indalwai",
+        "Latitude":18.5378078,
+        "Longitude":78.219132
+    },
+    {
+        "Toll Plaza Name":"Jawahar Nagar",
+        "Latitude":26.8892814,
+        "Longitude":75.8360422
+    },
+    {
+        "Toll Plaza Name":"Kadthal",
+        "Latitude":16.983683,
+        "Longitude":78.5007657
+    },
+    {
+        "Toll Plaza Name":"Komalla",
+        "Latitude":17.7778892,
+        "Longitude":79.3020406
+    },
+    {
+        "Toll Plaza Name":"Komatipalli",
+        "Latitude":18.6021368,
+        "Longitude":83.3956308
+    },
+    {
+        "Toll Plaza Name":"Konetipuram",
+        "Latitude":16.0686547,
+        "Longitude":80.7858634
+    },
+    {
+        "Toll Plaza Name":"Kothagudem",
+        "Latitude":17.5559725,
+        "Longitude":80.6169577
+    },
+    {
+        "Toll Plaza Name":"Manoharabad",
+        "Latitude":17.7664207,
+        "Longitude":78.4680902
+    },
+    {
+        "Toll Plaza Name":"Medipally Toll Plaza",
+        "Latitude":17.4077808,
+        "Longitude":78.6022767
+    },
+    {
+        "Toll Plaza Name":"Munnanur",
+        "Latitude":16.3718379,
+        "Longitude":78.7579215
+    },
+    {
+        "Toll Plaza Name":"Muthojipet",
+        "Latitude":17.9587363,
+        "Longitude":79.9129735
+    },
+    {
+        "Toll Plaza Name":"Pippalwada",
+        "Latitude":19.7770846,
+        "Longitude":78.5682144
+    },
+    {
+        "Toll Plaza Name":"Rolmamda",
+        "Latitude":19.2800574,
+        "Longitude":78.4093502
+    },
+    {
+        "Toll Plaza Name":"Singarajupally",
+        "Latitude":17.5914923,
+        "Longitude":79.2648481
+    },
+    {
+        "Toll Plaza Name":"Taddanpally Toll Plaza",
+        "Latitude":17.6965948,
+        "Longitude":78.0954136
+    },
+    {
+        "Toll Plaza Name":"Yerkaram",
+        "Latitude":17.2301687,
+        "Longitude":79.5707677
+    },
+    {
+        "Toll Plaza Name":"Aaini",
+        "Latitude":16.3475697,
+        "Longitude":74.0476378
+    },
+    {
+        "Toll Plaza Name":"Aashpur",
+        "Latitude":23.0004803,
+        "Longitude":87.7178774
+    },
+    {
+        "Toll Plaza Name":"Ahamadpur",
+        "Latitude":20.9442152,
+        "Longitude":77.4271665
+    },
+    {
+        "Toll Plaza Name":"Aihar",
+        "Latitude":26.1919471,
+        "Longitude":81.0257763
+    },
+    {
+        "Toll Plaza Name":"Aindhi",
+        "Latitude":26.3594516,
+        "Longitude":80.8516173
+    },
+    {
+        "Toll Plaza Name":"Ait",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Akshda",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Akwabad",
+        "Latitude":26.3309349,
+        "Longitude":80.7106168
+    },
+    {
+        "Toll Plaza Name":"Aliyapur",
+        "Latitude":26.0725709,
+        "Longitude":80.1637901
+    },
+    {
+        "Toll Plaza Name":"Amdi",
+        "Latitude":20.7702146,
+        "Longitude":81.4913696
+    },
+    {
+        "Toll Plaza Name":"Amora Moiddinpur",
+        "Latitude":25.9789642,
+        "Longitude":83.0566661
+    },
+    {
+        "Toll Plaza Name":"Anantram",
+        "Latitude":26.603316,
+        "Longitude":79.2585058
+    },
+    {
+        "Toll Plaza Name":"Andhiyari",
+        "Latitude":27.0898049,
+        "Longitude":82.2352397
+    },
+    {
+        "Toll Plaza Name":"Asroga",
+        "Latitude":26.2988246,
+        "Longitude":81.9500719
+    },
+    {
+        "Toll Plaza Name":"Atraila Shiv Ghulam",
+        "Latitude":24.9619252,
+        "Longitude":82.3058442
+    },
+    {
+        "Toll Plaza Name":"Babina",
+        "Latitude":25.249456,
+        "Longitude":78.4623211
+    },
+    {
+        "Toll Plaza Name":"Badagawn",
+        "Latitude":27.0459008,
+        "Longitude":74.8112327
+    },
+    {
+        "Toll Plaza Name":"Badauri",
+        "Latitude":26.0650253,
+        "Longitude":80.6584211
+    },
+    {
+        "Toll Plaza Name":"Baiti Kala Toll Plaza",
+        "Latitude":26.0544377,
+        "Longitude":82.3394042
+    },
+    {
+        "Toll Plaza Name":"Baleni",
+        "Latitude":28.9530773,
+        "Longitude":77.453704
+    },
+    {
+        "Toll Plaza Name":"Bamhori Kurmin",
+        "Latitude":23.7165612,
+        "Longitude":77.3180836
+    },
+    {
+        "Toll Plaza Name":"Bara",
+        "Latitude":30.9175403,
+        "Longitude":76.5206421
+    },
+    {
+        "Toll Plaza Name":"Barajore (Bara)",
+        "Latitude":30.9175403,
+        "Longitude":76.5206421
+    },
+    {
+        "Toll Plaza Name":"Baros",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Basheerapur Toll Plaza",
+        "Latitude":27.0735547,
+        "Longitude":79.8432637
+    },
+    {
+        "Toll Plaza Name":"Belgada",
+        "Latitude":27.1166959,
+        "Longitude":82.8963135
+    },
+    {
+        "Toll Plaza Name":"Belon",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Bhaneda Toll Plaza",
+        "Latitude":29.5304862,
+        "Longitude":78.2675478
+    },
+    {
+        "Toll Plaza Name":"Bharatkund",
+        "Latitude":26.6479829,
+        "Longitude":82.1356625
+    },
+    {
+        "Toll Plaza Name":"Bhojpur",
+        "Latitude":25.466155,
+        "Longitude":84.5222189
+    },
+    {
+        "Toll Plaza Name":"Bhuni",
+        "Latitude":30.200863,
+        "Longitude":76.6557102
+    },
+    {
+        "Toll Plaza Name":"Bilakbarpur (Dundahera )(EPE)",
+        "Latitude":28.5134376,
+        "Longitude":77.0801899
+    },
+    {
+        "Toll Plaza Name":"Brijghat",
+        "Latitude":28.7556499,
+        "Longitude":78.1407651
+    },
+    {
+        "Toll Plaza Name":"Cable Stayed Naini Bridge",
+        "Latitude":25.4268792,
+        "Longitude":81.8613842
+    },
+    {
+        "Toll Plaza Name":"Chapwa",
+        "Latitude":26.730777,
+        "Longitude":84.7485315
+    },
+    {
+        "Toll Plaza Name":"Chaukadi",
+        "Latitude":24.678755,
+        "Longitude":75.2595731
+    },
+    {
+        "Toll Plaza Name":"Chhajarsi",
+        "Latitude":28.6287586,
+        "Longitude":77.3959097
+    },
+    {
+        "Toll Plaza Name":"Chota Mawana Toll Plaza",
+        "Latitude":29.0915877,
+        "Longitude":77.859747
+    },
+    {
+        "Toll Plaza Name":"Daffi",
+        "Latitude":25.2444365,
+        "Longitude":82.9797246
+    },
+    {
+        "Toll Plaza Name":"Dakhina Sekhpur",
+        "Latitude":26.5314137,
+        "Longitude":81.072706
+    },
+    {
+        "Toll Plaza Name":"Dasna EPE",
+        "Latitude":28.6789231,
+        "Longitude":77.5317819
+    },
+    {
+        "Toll Plaza Name":"Dasna(EPE)",
+        "Latitude":28.6789231,
+        "Longitude":77.5317819
+    },
+    {
+        "Toll Plaza Name":"Duhai(EPE)",
+        "Latitude":28.7324588,
+        "Longitude":77.4804808
+    },
+    {
+        "Toll Plaza Name":"Dularpur",
+        "Latitude":26.2253333,
+        "Longitude":86.0306502
+    },
+    {
+        "Toll Plaza Name":"Etaura Bujurg",
+        "Latitude":26.485778,
+        "Longitude":83.3161387
+    },
+    {
+        "Toll Plaza Name":"Faridpur",
+        "Latitude":28.2091237,
+        "Longitude":79.5377617
+    },
+    {
+        "Toll Plaza Name":"Fatehpur Rampur(EPE)",
+        "Latitude":28.443616,
+        "Longitude":77.5884481
+    },
+    {
+        "Toll Plaza Name":"Golhaura Fee Plaza",
+        "Latitude":27.232686,
+        "Longitude":82.8253514
+    },
+    {
+        "Toll Plaza Name":"Gopalpur Toll Plaza",
+        "Latitude":25.1660947,
+        "Longitude":82.4800773
+    },
+    {
+        "Toll Plaza Name":"Gulalpurva",
+        "Latitude":27.8253709,
+        "Longitude":81.5239846
+    },
+    {
+        "Toll Plaza Name":"Gulhaura",
+        "Latitude":27.232686,
+        "Longitude":82.8253514
+    },
+    {
+        "Toll Plaza Name":"Gurau (Semra Atikabad)",
+        "Latitude":26.9786729,
+        "Longitude":78.7858712
+    },
+    {
+        "Toll Plaza Name":"Hadawa",
+        "Latitude":26.0308641,
+        "Longitude":82.8075032
+    },
+    {
+        "Toll Plaza Name":"Handia",
+        "Latitude":25.3627247,
+        "Longitude":82.1898703
+    },
+    {
+        "Toll Plaza Name":"Harro",
+        "Latitude":25.1222719,
+        "Longitude":81.7540902
+    },
+    {
+        "Toll Plaza Name":"Hauj",
+        "Latitude":25.6729473,
+        "Longitude":82.7270537
+    },
+    {
+        "Toll Plaza Name":"Hitouta",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Itaunja (Barabhari)",
+        "Latitude":27.0808218,
+        "Longitude":80.8958843
+    },
+    {
+        "Toll Plaza Name":"Jagahedi",
+        "Latitude":29.4726817,
+        "Longitude":77.7085091
+    },
+    {
+        "Toll Plaza Name":"Jakhauli(EPE)",
+        "Latitude":28.5921077,
+        "Longitude":77.5527704
+    },
+    {
+        "Toll Plaza Name":"Jindpur",
+        "Latitude":27.2317356,
+        "Longitude":78.8966426
+    },
+    {
+        "Toll Plaza Name":"Jiwana",
+        "Latitude":29.0926934,
+        "Longitude":77.369282
+    },
+    {
+        "Toll Plaza Name":"Jorwara",
+        "Latitude":25.2477941,
+        "Longitude":81.2766598
+    },
+    {
+        "Toll Plaza Name":"Joya",
+        "Latitude":28.8352964,
+        "Longitude":78.4707363
+    },
+    {
+        "Toll Plaza Name":"Kaithi",
+        "Latitude":25.5315543,
+        "Longitude":86.6869172
+    },
+    {
+        "Toll Plaza Name":"Kashi",
+        "Latitude":25.3176452,
+        "Longitude":82.9739144
+    },
+    {
+        "Toll Plaza Name":"Katoghan",
+        "Latitude":25.7428668,
+        "Longitude":81.1582112
+    },
+    {
+        "Toll Plaza Name":"Khairabad (Karondi)",
+        "Latitude":23.3308106,
+        "Longitude":79.8142658
+    },
+    {
+        "Toll Plaza Name":"Khanna",
+        "Latitude":30.7070769,
+        "Longitude":76.2169907
+    },
+    {
+        "Toll Plaza Name":"Khokhraj",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Kiratpur Toll Plaza",
+        "Latitude":27.7915931,
+        "Longitude":78.2864291
+    },
+    {
+        "Toll Plaza Name":"Kunwarpur",
+        "Latitude":25.6754053,
+        "Longitude":82.324841
+    },
+    {
+        "Toll Plaza Name":"Kurana",
+        "Latitude":23.3295013,
+        "Longitude":77.3169809
+    },
+    {
+        "Toll Plaza Name":"Labhera  Toll plaza",
+        "Latitude":28.4680329,
+        "Longitude":79.5231075
+    },
+    {
+        "Toll Plaza Name":"Lalanagar",
+        "Latitude":25.2754645,
+        "Longitude":82.485048
+    },
+    {
+        "Toll Plaza Name":"Laxmannath",
+        "Latitude":21.8411304,
+        "Longitude":87.2190647
+    },
+    {
+        "Toll Plaza Name":"Luhari",
+        "Latitude":28.3732269,
+        "Longitude":76.7156143
+    },
+    {
+        "Toll Plaza Name":"Madrak",
+        "Latitude":27.7950439,
+        "Longitude":78.089439
+    },
+    {
+        "Toll Plaza Name":"Mahuvan",
+        "Latitude":24.0035626,
+        "Longitude":86.1471939
+    },
+    {
+        "Toll Plaza Name":"Maigalganj",
+        "Latitude":27.7172982,
+        "Longitude":80.3449831
+    },
+    {
+        "Toll Plaza Name":"Mandawnagar",
+        "Latitude":26.8107045,
+        "Longitude":82.7314689
+    },
+    {
+        "Toll Plaza Name":"Maujpur (EPE)",
+        "Latitude":28.6906285,
+        "Longitude":77.2764329
+    },
+    {
+        "Toll Plaza Name":"Mawikalan(EPE)",
+        "Latitude":29.0259073,
+        "Longitude":77.4443807
+    },
+    {
+        "Toll Plaza Name":"Mirzapur  ( Kyampur ) fee plaza",
+        "Latitude":25.6812762,
+        "Longitude":83.5403324
+    },
+    {
+        "Toll Plaza Name":"Mohammad Ibrahimpur",
+        "Latitude":28.572242,
+        "Longitude":78.8014505
+    },
+    {
+        "Toll Plaza Name":"Mungari",
+        "Latitude":25.3066032,
+        "Longitude":81.948026
+    },
+    {
+        "Toll Plaza Name":"Muzaina Hetim",
+        "Latitude":26.73393,
+        "Longitude":83.807436
+    },
+    {
+        "Toll Plaza Name":"Nainsar",
+        "Latitude":27.2082357,
+        "Longitude":83.2532771
+    },
+    {
+        "Toll Plaza Name":"Nawabganj",
+        "Latitude":22.7947584,
+        "Longitude":88.3639986
+    },
+    {
+        "Toll Plaza Name":"Nawabganj",
+        "Latitude":22.7947584,
+        "Longitude":88.3639986
+    },
+    {
+        "Toll Plaza Name":"Niyamatpur Ekrotiya",
+        "Latitude":28.8143139,
+        "Longitude":78.9023043
+    },
+    {
+        "Toll Plaza Name":"Nuruddinpur",
+        "Latitude":26.0956784,
+        "Longitude":83.0354663
+    },
+    {
+        "Toll Plaza Name":"Patni Pratapur",
+        "Latitude":29.5304909,
+        "Longitude":77.1989389
+    },
+    {
+        "Toll Plaza Name":"Pidhi",
+        "Latitude":26.2741429,
+        "Longitude":81.4114142
+    },
+    {
+        "Toll Plaza Name":"Plaza 1",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Plaza 2",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Pratappur  Toll Plaza",
+        "Latitude":25.1773595,
+        "Longitude":82.9734769
+    },
+    {
+        "Toll Plaza Name":"Raibha",
+        "Latitude":27.1776846,
+        "Longitude":77.8067065
+    },
+    {
+        "Toll Plaza Name":"Ramnagar Gansiyari",
+        "Latitude":25.7173949,
+        "Longitude":81.9057319
+    },
+    {
+        "Toll Plaza Name":"Rampura",
+        "Latitude":24.4661518,
+        "Longitude":75.4417559
+    },
+    {
+        "Toll Plaza Name":"Rasulpur Mu Mithegaon",
+        "Latitude":26.6571732,
+        "Longitude":82.0052883
+    },
+    {
+        "Toll Plaza Name":"Raunahi",
+        "Latitude":26.7690147,
+        "Longitude":82.0161903
+    },
+    {
+        "Toll Plaza Name":"Sabli",
+        "Latitude":23.8673293,
+        "Longitude":73.5726634
+    },
+    {
+        "Toll Plaza Name":"Sahson",
+        "Latitude":25.4848216,
+        "Longitude":81.9804816
+    },
+    {
+        "Toll Plaza Name":"Salemgarh",
+        "Latitude":26.6192462,
+        "Longitude":84.2568529
+    },
+    {
+        "Toll Plaza Name":"Sarai Sundar",
+        "Latitude":27.1441916,
+        "Longitude":79.5336477
+    },
+    {
+        "Toll Plaza Name":"Semraraja",
+        "Latitude":27.0714045,
+        "Longitude":83.6094612
+    },
+    {
+        "Toll Plaza Name":"Semri",
+        "Latitude":27.6898291,
+        "Longitude":77.5297468
+    },
+    {
+        "Toll Plaza Name":"Shahabpur",
+        "Latitude":31.0787508,
+        "Longitude":76.1877926
+    },
+    {
+        "Toll Plaza Name":"Sherpur Chamaraha",
+        "Latitude":26.8184263,
+        "Longitude":83.2857186
+    },
+    {
+        "Toll Plaza Name":"Shrishikalan",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Siwaya",
+        "Latitude":28.6413336,
+        "Longitude":77.6851069
+    },
+    {
+        "Toll Plaza Name":"Somna (Gabana)",
+        "Latitude":28.0569882,
+        "Longitude":77.93924
+    },
+    {
+        "Toll Plaza Name":"Soraon",
+        "Latitude":25.6070169,
+        "Longitude":81.8497567
+    },
+    {
+        "Toll Plaza Name":"Tamsabad",
+        "Latitude":29.4061685,
+        "Longitude":77.1276629
+    },
+    {
+        "Toll Plaza Name":"Tarwa Dewa",
+        "Latitude":27.1930926,
+        "Longitude":79.3733064
+    },
+    {
+        "Toll Plaza Name":"Tendua (Gorakhpur Bypass)",
+        "Latitude":26.7063173,
+        "Longitude":83.3902835
+    },
+    {
+        "Toll Plaza Name":"Thiriyakhetal",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Tundla",
+        "Latitude":27.2263843,
+        "Longitude":78.2425418
+    },
+    {
+        "Toll Plaza Name":"Ukasa ( Chamari)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Umapur",
+        "Latitude":19.2963455,
+        "Longitude":75.5980396
+    },
+    {
+        "Toll Plaza Name":"Vighakhet",
+        "Latitude":24.7896466,
+        "Longitude":78.4487648
+    },
+    {
+        "Toll Plaza Name":"Bahadrabad",
+        "Latitude":29.9195136,
+        "Longitude":78.0409416
+    },
+    {
+        "Toll Plaza Name":"Banushi",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Bhagwanpur",
+        "Latitude":29.941693,
+        "Longitude":77.8141191
+    },
+    {
+        "Toll Plaza Name":"Chhapar",
+        "Latitude":27.8185932,
+        "Longitude":74.4379073
+    },
+    {
+        "Toll Plaza Name":"Deoria",
+        "Latitude":26.5024286,
+        "Longitude":83.7791283
+    },
+    {
+        "Toll Plaza Name":"Jagatpur Patti",
+        "Latitude":29.2456199,
+        "Longitude":78.8807247
+    },
+    {
+        "Toll Plaza Name":"Koyla",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Lacchhiwala",
+        "Latitude":30.2230212,
+        "Longitude":78.0766036
+    },
+    {
+        "Toll Plaza Name":"Puraini",
+        "Latitude":25.5961766,
+        "Longitude":86.9918988
+    },
+    {
+        "Toll Plaza Name":"Rawason Bridge (MoRTH)",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Sarsawa",
+        "Latitude":30.0197627,
+        "Longitude":77.3984704
+    },
+    {
+        "Toll Plaza Name":"Sayed Mazera",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Banskopa",
+        "Latitude":23.4919176,
+        "Longitude":87.3748863
+    },
+    {
+        "Toll Plaza Name":"Barai Toll Plaza",
+        "Latitude":25.6709171,
+        "Longitude":88.0801653
+    },
+    {
+        "Toll Plaza Name":"Beliyad",
+        "Latitude":23.7616484,
+        "Longitude":86.8057142
+    },
+    {
+        "Toll Plaza Name":"Chakseherdi (Gazole) Bagsarai",
+        "Latitude":24.8164058,
+        "Longitude":87.9751299
+    },
+    {
+        "Toll Plaza Name":"Dankuni",
+        "Latitude":22.6809296,
+        "Longitude":88.2970142
+    },
+    {
+        "Toll Plaza Name":"Debra",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Ghogarkuthi",
+        "Latitude":26.3230195,
+        "Longitude":89.6404628
+    },
+    {
+        "Toll Plaza Name":"Gopgram (Shibpur)",
+        "Latitude":22.5712985,
+        "Longitude":88.3108502
+    },
+    {
+        "Toll Plaza Name":"Guabari",
+        "Latitude":26.3573126,
+        "Longitude":90.1705687
+    },
+    {
+        "Toll Plaza Name":"Husludanga",
+        "Latitude":26.5572389,
+        "Longitude":88.9141424
+    },
+    {
+        "Toll Plaza Name":"Jaladhulagori (Dhulagarh)",
+        "Latitude":22.5731795,
+        "Longitude":88.1817649
+    },
+    {
+        "Toll Plaza Name":"Kalapathar",
+        "Latitude":22.9023968,
+        "Longitude":86.8897655
+    },
+    {
+        "Toll Plaza Name":"Kishorpur (Chandermore)",
+        "Latitude":23.8902923,
+        "Longitude":88.5444475
+    },
+    {
+        "Toll Plaza Name":"Lakshmipur (Eighteen Mile )",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Mejia",
+        "Latitude":20.593684,
+        "Longitude":78.96288
+    },
+    {
+        "Toll Plaza Name":"Namkhna",
+        "Latitude":21.7699486,
+        "Longitude":88.231513
+    },
+    {
+        "Toll Plaza Name":"Nivedita Setu",
+        "Latitude":22.6524934,
+        "Longitude":88.3536768
+    },
+    {
+        "Toll Plaza Name":"Palsit",
+        "Latitude":23.2060117,
+        "Longitude":88.0045062
+    },
+    {
+        "Toll Plaza Name":"Panikauri",
+        "Latitude":26.5780132,
+        "Longitude":88.5181541
+    },
+    {
+        "Toll Plaza Name":"Paschim Madati",
+        "Latitude":26.5442929,
+        "Longitude":88.2412504
+    },
+    {
+        "Toll Plaza Name":"Rajchandrapur  (Howrah)",
+        "Latitude":22.6550289,
+        "Longitude":88.3172494
+    },
+    {
+        "Toll Plaza Name":"Rangalibazna",
+        "Latitude":26.6677886,
+        "Longitude":89.1920228
+    },
+    {
+        "Toll Plaza Name":"Sali Bamandanga",
+        "Latitude":23.6290356,
+        "Longitude":88.360083
+    },
+    {
+        "Toll Plaza Name":"Satbhaiya",
+        "Latitude":26.6707618,
+        "Longitude":88.2193381
+    },
+    {
+        "Toll Plaza Name":"Sonapetya",
+        "Latitude":22.3341108,
+        "Longitude":87.8776824
+    },
+    {
+        "Toll Plaza Name":"Sulkhapara",
+        "Latitude":26.85739,
+        "Longitude":88.9078527
+    },
+    {
+        "Toll Plaza Name":"Surjapur",
+        "Latitude":25.9402263,
+        "Longitude":87.8464254
+    }
+]
